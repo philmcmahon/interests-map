@@ -110,7 +110,7 @@ class ColonialismMap extends React.Component {
           center={startPosition}
           zoom={6}
           preferCanvas={true}
-          style={{ height: "500px" }}
+          style={{ height: "1000px" }}
         >
           <TileLayer
             id="mapbox/streets-v11"
