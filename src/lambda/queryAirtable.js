@@ -10,7 +10,7 @@ if (!AIRTABLE_API_KEY || AIRTABLE_API_KEY.length < 5) {
 exports.handler = (event, context, callback) => {
   const { id } = event.queryStringParameters;
 
-  const baseUrl = "https://api.airtable.com/v0/appu1gS4L2wLClmLo/Table%201";
+  const baseUrl = "https://api.airtable.com/v0/appP1ah1DnrCX2Aoo/Table%201";
   const url = id ? `${baseUrl}/${id}` : baseUrl;
   fetch(url, {
     method: "GET",

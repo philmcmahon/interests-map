@@ -1,9 +1,10 @@
 import * as React from "react";
 import * as Leaflet from "leaflet";
-import { Map, Marker, Popup, TileLayer } from "react-leaflet";
+import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import TopHat from "../assets/top-hat.png";
+import Bomb from "../assets/bomb.png";
+import Peace from "../assets/peace.png";
 import { fetchAllLocations } from "./../services/database";
 import console = require("console");
 
@@ -29,17 +30,17 @@ const generateIcon = (iconUrl: string, shadowUrl?: string) => {
   });
 };
 
-const startPosition: Leaflet.LatLngExpression = [51.505, -0.09];
+const startPosition: Leaflet.LatLngExpression = [53.80618473785163, -1.5504965349684796];
 
 export interface PointOfInterest {
   title: string;
-  text?: string;
+  riscLinks?: string;
   latitude?: string;
   longitude?: string;
   image?: string;
   createdTime: string;
   id: string;
-  author?: string;
+  asylumBursary?: string;
 }
 
 export interface AirTableRecord {
@@ -55,6 +56,7 @@ class ColonialismMap extends React.Component {
 
   componentDidMount = () => {
     fetchAllLocations().then(pointsOfInterest => {
+      console.log(pointsOfInterest)
       this.setState({ pointsOfInterest });
     });
   };
@@ -66,8 +68,10 @@ class ColonialismMap extends React.Component {
         Number(poi.longitude)
       ];
 
+      const markerIcon = poi.riscLinks ? Bomb : Peace
+
       return (
-        <Marker position={position} key={poi.id} icon={generateIcon(TopHat)}>
+        <Marker position={position} key={poi.id} icon={generateIcon(markerIcon)}>
           <Popup>
             <Museo500Div className="card">
               <div className="card-image">
@@ -78,24 +82,20 @@ class ColonialismMap extends React.Component {
                     style={{ width: "100%" }}
                   />
                 )}
-                <span className="card-title">{poi.title}</span>
               </div>
               <Museo500Div className="card-content">
+                <b>Asylum Student Bursary</b>
                 <p>
-                  <b>{poi.author}</b>
+                  {poi.asylumBursary}
                 </p>
-                <p>{poi.text.substring(0, 200).replace(/<[^>]*>?/gm, "")}...</p>
+                <br></br>
+                {poi.riscLinks && (<>
+                  <b>Links to institutions in RiSC network</b>
+                  <p>{poi.riscLinks}</p>
+                </>)} 
+                
               </Museo500Div>
 
-              <div className="card-action">
-                <Link
-                  to={{ pathname: `/location/${poi.id}`, data: poi }}
-                  state={{ name: "Phil" }}
-                  target="_blank"
-                >
-                  Read more{" "}
-                </Link>
-              </div>
             </Museo500Div>
           </Popup>
         </Marker>
@@ -106,19 +106,19 @@ class ColonialismMap extends React.Component {
   render() {
     return (
       <FullSizeDiv>
-        <Map
+        <MapContainer
           center={startPosition}
-          zoom={10}
+          zoom={6}
           preferCanvas={true}
           style={{ height: "500px" }}
         >
           <TileLayer
-            id="mapbox.streets"
-            url={`https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicG1jbWFob24xIiwiYSI6ImNqd294ZW4xMDBiMW80YnFyYzhheGo2NXMifQ.OAueHLCYkqOg4qbND3CvHg`} // TODO: mapbox access token
+            id="mapbox/streets-v11"
+            url={`https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicG1jbWFob24xIiwiYSI6ImNqd294ZW4xMDBiMW80YnFyYzhheGo2NXMifQ.OAueHLCYkqOg4qbND3CvHg`} // TODO: mapbox access token
             attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
           />
           {this.makeMarkers(this.state.pointsOfInterest)}
-        </Map>
+        </MapContainer>
       </FullSizeDiv>
     );
   }

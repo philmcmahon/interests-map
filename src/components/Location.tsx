@@ -61,7 +61,7 @@ class Location extends React.Component<
             />
             <p
               dangerouslySetInnerHTML={this.getSanitisedText(
-                this.state.location.text
+                this.state.location.asylumBursary
               )}
             ></p>
           </>
