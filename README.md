@@ -1,4 +1,4 @@
-# soas-colonialism-map
+# simple-map
 
 To run:
 
