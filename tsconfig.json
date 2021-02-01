@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "baseUrl": "./src",
+    "paths": {
+      "~*": ["./*"]
+    },
+    "skipLibCheck": true
+  },
+  "include": ["./src/**/*", "./typings/**/*.d.ts"],
+  "exclude": ["./node_modules", "./src/lambda"]
+}

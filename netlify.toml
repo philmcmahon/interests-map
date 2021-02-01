@@ -1,0 +1,10 @@
+[build]
+  functions = "./functions"
+  publish = "./dist"
+  command = "npm run build"
+
+# This is needed to make react-router work with netlify
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status=200
