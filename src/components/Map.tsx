@@ -41,6 +41,7 @@ export interface PointOfInterest {
   createdTime: string;
   id: string;
   asylumBursary?: string;
+  source?: string;
 }
 
 export interface AirTableRecord {
@@ -68,34 +69,32 @@ class ColonialismMap extends React.Component {
         Number(poi.longitude)
       ];
 
-      const markerIcon = poi.riscLinks ? Bomb : Peace
+      const markerIcon = Bomb
 
       return (
         <Marker position={position} key={poi.id} icon={generateIcon(markerIcon)}>
           <Popup>
-            <Museo500Div className="card">
+            <Museo500Div className="card blue-grey darken-1">
               <div className="card-image">
-                {poi.image && (
+                
                   <img
-                    src={poi.image}
+                    src={poi.image || `https://logo.clearbit.com/${encodeURI(poi.title)}`}
                     alt={poi.title}
                     style={{ width: "100%" }}
                   />
-                )}
+                
               </div>
-              <Museo500Div className="card-content">
-                <b>Asylum Student Bursary</b>
-                <p>
-                  {poi.asylumBursary}
-                </p>
-                <br></br>
+              <Museo500Div className="card-content white-text">
+                <span className="card-title">{poi.title}</span>
                 {poi.riscLinks && (<>
                   <b>Links to institutions in RiSC network</b>
                   <p>{poi.riscLinks}</p>
                 </>)} 
-                
               </Museo500Div>
-
+              <Museo500Div className="card-action">
+                {poi.source && (<a href={poi.source} >Read More</a>)}
+              </Museo500Div>
+              
             </Museo500Div>
           </Popup>
         </Marker>
