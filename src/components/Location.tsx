@@ -33,7 +33,7 @@ class Location extends React.Component<
     if (this.props.location.data) {
       this.setState({ location: this.props.location.data });
     } else {
-      fetchLocationById(this.props.match.params.id).then(location => {
+      fetchLocationById(this.props.match.params.id).then((location) => {
         this.setState({ location });
       });
     }
@@ -41,7 +41,7 @@ class Location extends React.Component<
 
   getSanitisedText = (text: string): any => {
     return {
-      __html: text
+      __html: text,
     };
   };
 
@@ -52,7 +52,7 @@ class Location extends React.Component<
           <>
             <h2>{this.state.location.title}</h2>
             <h4>
-              <i>{this.state.location.author}</i>
+              <i>{this.state.location.riscLinks}</i>
             </h4>
 
             <MainImage
