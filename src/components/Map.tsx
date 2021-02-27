@@ -4,18 +4,22 @@ import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Bomb from "../assets/bomb.png";
-import Peace from "../assets/peace.png";
 import { fetchAllLocations } from "./../services/database";
 import console = require("console");
 
 const MapDiv = styled.div`
   width: 80%;
-  padding-left: 20%;
+  padding-left: 15%;
+  padding-bottom: 2%;
 `;
 
 const TitleDiv = styled.div`
-  width: 90%;
-  padding-left: 10%;
+  width: 80%;
+  padding-left: 15%;
+`;
+
+const DescriptionPara = styled.p`
+  font-size: 20px;
 `;
 
 export const Museo500Div = styled.div`
@@ -36,8 +40,8 @@ const generateIcon = (iconUrl: string, shadowUrl?: string) => {
 };
 
 const startPosition: Leaflet.LatLngExpression = [
-  53.80618473785163,
-  -1.5504965349684796,
+  53.366413,
+  -1.515828
 ];
 
 export interface PointOfInterest {
@@ -98,7 +102,6 @@ class ColonialismMap extends React.Component {
                 <span className="card-title">{poi.title}</span>
                 {poi.riscLinks && (
                   <>
-                    <b>Links to institutions in RiSC network</b>
                     <p>{poi.riscLinks}</p>
                   </>
                 )}
@@ -117,22 +120,25 @@ class ColonialismMap extends React.Component {
     return (
       <>
         <TitleDiv>
-          <h1>UK Universities with links to Academic RiSC</h1>
-          <p>
-            You can use the map below to explore universities with links to the
-            academic resilience and security community network. In all cases you
+          <h2>UK Universities with links to Academic RiSC</h2>
+          <DescriptionPara>
+            Academic RiSC (Resilience and security community) is a network to link academia and national security
+            research. A network of sixty-six universities, it was apparently
+              formed at the request of the Home Office. You can use the map below to explore universities with links to RiSC. 
+              </DescriptionPara>
+              <DescriptionPara>In all cases you
             can read our source data by clicking the 'read more' button. If
             you're currently studying at one of these institutions and are
             interested in campaigning for change head to the{" "}
             <a href="https://caatunis.net/">CAAT Universities website</a>.
-          </p>
+          </DescriptionPara>
         </TitleDiv>
         <MapDiv>
           <MapContainer
             center={startPosition}
             zoom={6}
             preferCanvas={true}
-            style={{ height: "800px" }}
+            style={{ height: "700px" }}
           >
             <TileLayer
               id="mapbox/streets-v11"
