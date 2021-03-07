@@ -6,7 +6,7 @@ import Location from "./components/Location";
 const Router = () => (
   <BrowserRouter>
     <Switch>
-      <Route path="/map" component={Map} />
+      <Route path="/" component={Map} />
       <Route path="/location/:id" component={Location} />
     </Switch>
   </BrowserRouter>
