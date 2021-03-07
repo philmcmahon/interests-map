@@ -125,6 +125,9 @@ class ColonialismMap extends React.Component {
             Academic RiSC (Resilience and security community) is a network to link academia and national security
             research. A network of sixty-six universities, it was apparently
               formed at the request of the Home Office. You can use the map below to explore universities with links to RiSC. 
+              Whilst all of these Universities provide scholarships for asylum seekers, they are also members of the RiSC network which, 
+              in part, seeks to strengthen border security, making life harder for asylum seekers coming to the UK and make use of the
+              scholarships offered by these universities.
               </DescriptionPara>
               <DescriptionPara>In all cases you
             can read our source data by clicking the 'read more' button. If
