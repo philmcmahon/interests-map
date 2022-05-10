@@ -3,7 +3,7 @@ import * as Leaflet from "leaflet";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import Bomb from "../assets/bomb.png";
+import Money from "../assets/money.png";
 import { fetchAllLocations } from "./../services/database";
 import console = require("console");
 
@@ -78,7 +78,7 @@ class ColonialismMap extends React.Component {
         Number(poi.longitude),
       ];
 
-      const markerIcon = Bomb;
+      const markerIcon = Money;
 
       return (
         <Marker
@@ -97,9 +97,9 @@ class ColonialismMap extends React.Component {
               </div>
               <Museo500Div className="card-content white-text">
                 <span className="card-title">{poi.title}</span>
-                {poi.riscLinks && (
+                {poi.description && (
                   <>
-                    <p>{poi.riscLinks}</p>
+                    <p>{poi.description}</p>
                   </>
                 )}
               </Museo500Div>
