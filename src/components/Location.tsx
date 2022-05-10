@@ -52,7 +52,7 @@ class Location extends React.Component<
           <>
             <h2>{this.state.location.title}</h2>
             <h4>
-              <i>{this.state.location.riscLinks}</i>
+              <i>{this.state.location.description}</i>
             </h4>
 
             <MainImage

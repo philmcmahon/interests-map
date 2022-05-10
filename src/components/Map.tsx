@@ -43,7 +43,7 @@ const startPosition: Leaflet.LatLngExpression = [53.366413, -1.515828];
 
 export interface PointOfInterest {
   title: string;
-  riscLinks?: string;
+  description?: string;
   latitude?: string;
   longitude?: string;
   image?: string;
@@ -117,35 +117,8 @@ class ColonialismMap extends React.Component {
     return (
       <>
         <TitleDiv>
-          <h2>UK Universities with links to Academic RiSC</h2>
-          <DescriptionPara>
-            Academic RiSC (Resilience and security community) is a network to
-            link academia and national security research. A network of sixty-six
-            universities, it was apparently formed at the request of the Home
-            Office. You can use the map below to explore universities with links
-            to RiSC.
-          </DescriptionPara>
-          <DescriptionPara>
-            Whilst all of these Universities provide scholarships for asylum
-            seekers, they are also members of the RiSC network which, in part,
-            seeks to strengthen border security, making it harder for asylum
-            seekers to come to the UK and benefit from the scholarships offered
-            by these universities. To find out more, read Esme Waterfield's
-            piece on the CAAT Blog:{" "}
-            <a
-              href="https://caat.org.uk/news/guest-blog-drones-maritime-borders-flawed-notions-of-security/"
-              target="_blank"
-            >
-              Drones, Maritime Borders & Flawed Notions of Security
-            </a>
-            .
-          </DescriptionPara>
-          <DescriptionPara>
-            In all cases you can read our source data by clicking the 'read
-            more' button. If you're currently studying at one of these
-            institutions and are interested in campaigning for change head to
-            the <a href="https://caatunis.net/">CAAT Universities website</a>.
-          </DescriptionPara>
+          <h2>MPs Interests</h2>
+          <DescriptionPara>Some information about the map...</DescriptionPara>
         </TitleDiv>
         <MapDiv>
           <MapContainer
