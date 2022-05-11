@@ -82,11 +82,13 @@ const makeMarkers = (pois: PointOfInterest[]): any => {
           <Popup>
             <Museo500Div className="card blue-grey darken-1">
               <div className="card-image">
-                <img
-                  src={poi.thumbnail}
-                  alt={poi.title}
-                  style={{ width: "100%" }}
-                />
+                {poi.thumbnail && (
+                  <img
+                    src={poi.thumbnail}
+                    alt={poi.title}
+                    style={{ width: "100%" }}
+                  />
+                )}
               </div>
               <h1>{poi.name}</h1>
               <h2>{poi.party}</h2>
