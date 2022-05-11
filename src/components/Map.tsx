@@ -52,6 +52,7 @@ export interface PointOfInterest {
   name?: string;
   thumbnail?: string;
   postcode?: string;
+  party?: string;
 }
 
 export interface AirTableRecord {
@@ -87,6 +88,8 @@ const makeMarkers = (pois: PointOfInterest[]): any => {
                   style={{ width: "100%" }}
                 />
               </div>
+              <h1>{poi.name}</h1>
+              <h2>{poi.party}</h2>
               <Museo500Div className="card-content white-text">
                 <span className="card-title">{poi.title}</span>
                 {poi.description && (

@@ -1,7 +1,7 @@
 export const poiData = [
   {
     id: "23",
-    name: "Remunerated directorships",
+    name: "Tony Baldry",
     title: "Remunerated directorships",
     description:
       "Deputy Chairman, Woburn Energy plc, 16 Upper Woburn Place, London, WC1H 0AF; AIM listed company specialising in oil exploration and recovery.  Work includes attending meetings and advising on business opportunities.",
@@ -12,7 +12,7 @@ export const poiData = [
   },
   {
     id: "34",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Baron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Monthly investment column in the FTs’ Investors Chronicle magazine. Address: Number One Southwark Bridge, London SE1 9HL. All fees waived in lieu of FT donations to charities of Mr Baron’s choice.",
@@ -23,7 +23,7 @@ export const poiData = [
   },
   {
     id: "35",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Baron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from the Investors Chronicle magazine, for speaking at investment seminars. Address: Number One Southwark Bridge, London SE1 9HL:",
@@ -34,7 +34,7 @@ export const poiData = [
   },
   {
     id: "37",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kevin Barron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing opinion surveys for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -45,7 +45,7 @@ export const poiData = [
   },
   {
     id: "40",
-    name: "Remunerated employment, office, profession etc",
+    name: "Guto Bebb",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -56,7 +56,7 @@ export const poiData = [
   },
   {
     id: "47",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alan Beith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion research:",
@@ -65,7 +65,7 @@ export const poiData = [
   },
   {
     id: "62",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Beresford",
     title: "Remunerated employment, office, profession etc",
     description:
       "Employed as part-time dental surgeon for Beresford Dental Practice Limited, 207 Upper Richmond Road, SW15 6SQ:",
@@ -76,7 +76,7 @@ export const poiData = [
   },
   {
     id: "67",
-    name: "Remunerated employment, office, profession etc",
+    name: "Clive Betts",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys. All fees are paid direct to my constituency party:",
@@ -87,7 +87,7 @@ export const poiData = [
   },
   {
     id: "69",
-    name: "Remunerated employment, office, profession etc",
+    name: "Bob Blackman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -98,7 +98,7 @@ export const poiData = [
   },
   {
     id: "78",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Blomfield",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee for completing survey for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -109,7 +109,7 @@ export const poiData = [
   },
   {
     id: "80",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Blomfield",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from Guardian News & Media Ltd, Kings Place, 90 York Way, London N1 9GU:",
@@ -120,7 +120,7 @@ export const poiData = [
   },
   {
     id: "84",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for articles written for Associated Newspapers Ltd, 2 Derry Street, London W8 5TT:",
@@ -129,7 +129,7 @@ export const poiData = [
   },
   {
     id: "85",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Member of the Oracle Capital Advisory Board, Oracle House, 8-12 Welbeck Way, London W1G 9YL.  Four meetings annually plus charitable fundraising events:",
@@ -138,7 +138,7 @@ export const poiData = [
   },
   {
     id: "86",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Guardian (Kings Place, 90 York Way, London N1 9GU):",
@@ -147,7 +147,7 @@ export const poiData = [
   },
   {
     id: "100",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Bone",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing surveys for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -158,7 +158,7 @@ export const poiData = [
   },
   {
     id: "107",
-    name: "Remunerated employment, office, profession etc",
+    name: "Ben Bradshaw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -169,7 +169,7 @@ export const poiData = [
   },
   {
     id: "108",
-    name: "Remunerated employment, office, profession etc",
+    name: "Ben Bradshaw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -180,7 +180,7 @@ export const poiData = [
   },
   {
     id: "109",
-    name: "Remunerated employment, office, profession etc",
+    name: "Graham Brady",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for responding to opinion research:Fee of £75 paid direct to charity on 29 September 2014 for September Panel survey.",
@@ -191,7 +191,7 @@ export const poiData = [
   },
   {
     id: "126",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Bryant",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Guardian, Kings Place, 90 York Way, London N1 9GU:",
@@ -202,7 +202,7 @@ export const poiData = [
   },
   {
     id: "127",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Bryant",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -213,7 +213,7 @@ export const poiData = [
   },
   {
     id: "131",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Burstow",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for speaking at Westminster Explained events, Dods, 21 Dartmouth Street, Westminster London SW1H 9BP. All fees donated to Sutton Liberal Democrats:",
@@ -224,7 +224,7 @@ export const poiData = [
   },
   {
     id: "132",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Burstow",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for completing opinion surveys from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys. All fees donated to Sutton Liberal Democrats:",
@@ -235,7 +235,7 @@ export const poiData = [
   },
   {
     id: "135",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alistair Burt",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from PLLG Investors Advisors Ltd, 1200 Century Way, Thorpe Business Park, Leeds LS15 8ZA:",
@@ -246,7 +246,7 @@ export const poiData = [
   },
   {
     id: "147",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Byrne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for teaching received from Oxford University Said Business School, University of Oxford, OX1 5NY:",
@@ -257,7 +257,7 @@ export const poiData = [
   },
   {
     id: "148",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Byrne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB, for licencing fees:",
@@ -268,7 +268,7 @@ export const poiData = [
   },
   {
     id: "150",
-    name: "Overseas visits",
+    name: "Liam Byrne",
     title: "Overseas visits",
     description:
       "Name of donor: (1) UK China Forum Ltd, a not for profit company established by the Great Britain China Centre for the purpose of promoting UK-China dialogues, from sponsorship by HSBC and Prudential (2) All China Youth FederationAddress of donor: (1) 15 Belgrave Square, London SW1X 8PS (2) 10, Qianmen Dong Dajie, Beijing, 100051, People’s Republic of ChinaAmount of donation (or estimate of the probable value): (1) £1,200.21 for air ticket and visa (2) three night’s bed and breakfast in hotels in Beijing and Chongqing at an estimated cost of £80 per night (£240); total £1,440.21Destination of visit: Beijing and Chongqing, ChinaDate of visit: 22-15 July 2014Purpose of visit: to attend the 2014 UK-China Young Leaders Roundtable, organised by the Great Britain China Centre, UK China Forum Ltd and All-China Youth Federation to discuss building UK-China partnership for reform and innovation.",
@@ -279,7 +279,7 @@ export const poiData = [
   },
   {
     id: "153",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for completion of surveys:",
@@ -290,7 +290,7 @@ export const poiData = [
   },
   {
     id: "154",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for online surveys:",
@@ -301,7 +301,7 @@ export const poiData = [
   },
   {
     id: "156",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Populus, Northburgh House, 10 Northburgh Street, London EC1V 0AT, for opinion surveys:",
@@ -312,7 +312,7 @@ export const poiData = [
   },
   {
     id: "168",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kenneth Clarke",
     title: "Remunerated employment, office, profession etc",
     description:
       "Received £12,000 via Speakers in Partnership, 33 Sun Street, London EC2M 2PA for",
@@ -321,7 +321,7 @@ export const poiData = [
   },
   {
     id: "175",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rosie Cooper",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for completion of surveys:",
@@ -332,7 +332,7 @@ export const poiData = [
   },
   {
     id: "179",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jeremy Corbyn",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -343,7 +343,7 @@ export const poiData = [
   },
   {
     id: "184",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tracey Crouch",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys.  :",
@@ -354,7 +354,7 @@ export const poiData = [
   },
   {
     id: "186",
-    name: "Overseas visits",
+    name: "Tracey Crouch",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Coventry Building Society; (2) British Outdoor Industries Association; (3) Berghaus.Address of donor: (1) Binley Business Park, Harry Weston Road, Coventry CV3 2TQ; (2) 12 Church Street, Windemere, Cumbria, LA23 1AQ; (3) 12 Colima Avenue, Sunderland Enterprise Park, Sunderland. SR5 3XBAmount of donation (or estimate of the probable value):  (1) £2,500    (2) £200     (3) £350Destination of visit: Iliniza, Cayembe, Cotopaxi in Ecuador.Date of visit: 28 May- 9 June 2014Purpose of visit: to launch the Royal British Legion Battle Back recovery centre expeditions with injured soldiers.",
@@ -365,7 +365,7 @@ export const poiData = [
   },
   {
     id: "193",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion research:",
@@ -374,7 +374,7 @@ export const poiData = [
   },
   {
     id: "194",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street London EC1Y 8RT, for opinion research:",
@@ -383,7 +383,7 @@ export const poiData = [
   },
   {
     id: "195",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Envoy Partnership, 1 Alfred Place, 2nd Floor, London WC1V 6AX, for opinion research:",
@@ -392,7 +392,7 @@ export const poiData = [
   },
   {
     id: "197",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Biteback Publishing, Westminster Tower, 3 Albert Embankment, London, SE1 7SP for a book I co-wrote:",
@@ -403,7 +403,7 @@ export const poiData = [
   },
   {
     id: "198",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from DMGT PLC, Registered Office: Northcliffe House, 2 Derry St, Kensington, London, W8 5TT:",
@@ -414,7 +414,7 @@ export const poiData = [
   },
   {
     id: "200",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Telegraph Media Group Ltd, 111 Buckingham Palace Road London SW1W 0DT:",
@@ -425,7 +425,7 @@ export const poiData = [
   },
   {
     id: "201",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from the Guardian Media Group, Kings Place, 90 York Way, London N1 9GU:",
@@ -436,7 +436,7 @@ export const poiData = [
   },
   {
     id: "206",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alistair Darling",
     title: "Remunerated employment, office, profession etc",
     description:
       "15 May 2014, I received a further payment of £597.77 in respect of royalties payable under my contract with Atlantic Books, previously registered.  Time spent:  nil. Address of payer: Capell and Land Ltd, 29 Wardour Street, London, W1D 6PS.",
@@ -445,7 +445,7 @@ export const poiData = [
   },
   {
     id: "212",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.",
@@ -454,7 +454,7 @@ export const poiData = [
   },
   {
     id: "213",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Capita Business Services, 2nd floor, 17-19 Rochester Row, London SW1P 1LA:",
@@ -463,7 +463,7 @@ export const poiData = [
   },
   {
     id: "215",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT,",
@@ -472,7 +472,7 @@ export const poiData = [
   },
   {
     id: "217",
-    name: "Remunerated employment, office, profession etc",
+    name: "Glyn Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes for opinion surveys. Address: Four Millbank, London SW1P 3JA.",
@@ -483,7 +483,7 @@ export const poiData = [
   },
   {
     id: "218",
-    name: "Remunerated employment, office, profession etc",
+    name: "Glyn Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT for opinion surveys:",
@@ -494,7 +494,7 @@ export const poiData = [
   },
   {
     id: "224",
-    name: "Remunerated employment, office, profession etc",
+    name: "Philip Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA:",
@@ -505,7 +505,7 @@ export const poiData = [
   },
   {
     id: "226",
-    name: "Remunerated employment, office, profession etc",
+    name: "Philip Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys.",
@@ -516,7 +516,7 @@ export const poiData = [
   },
   {
     id: "235",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davis",
     title: "Remunerated employment, office, profession etc",
     description:
       "Articles written for News International Group, News International Ltd, 1 Virginia Street, London E98 1XY.",
@@ -527,7 +527,7 @@ export const poiData = [
   },
   {
     id: "236",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davis",
     title: "Remunerated employment, office, profession etc",
     description:
       "Articles written for Associated Newspapers Ltd.  Address: Northcliffe House, 2 Derry Street, Kensington, London W8 5TT:",
@@ -538,7 +538,7 @@ export const poiData = [
   },
   {
     id: "239",
-    name: "Remunerated employment, office, profession etc",
+    name: "Brian H Donohoe",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion research.",
@@ -547,7 +547,7 @@ export const poiData = [
   },
   {
     id: "240",
-    name: "Remunerated employment, office, profession etc",
+    name: "Brian H Donohoe",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for online surveys:",
@@ -556,7 +556,7 @@ export const poiData = [
   },
   {
     id: "264",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Evans",
     title: "Remunerated employment, office, profession etc",
     description:
       "ComRes, 4 Millbank, London, SW1P 3JA, for completing opinion survey:(b)",
@@ -567,7 +567,7 @@ export const poiData = [
   },
   {
     id: "265",
-    name: "Remunerated employment, office, profession etc",
+    name: "Graham Evans",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in opinion research:",
@@ -578,7 +578,7 @@ export const poiData = [
   },
   {
     id: "270",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Farrelly",
     title: "Remunerated employment, office, profession etc",
     description: "Surveys completed for ComRes, 4 Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -588,7 +588,7 @@ export const poiData = [
   },
   {
     id: "274",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Field",
     title: "Remunerated employment, office, profession etc",
     description:
       "As a member of the Advisory Committee I advise on the maintenance of the highest standards of quality and service for the school.  My role covers advising about mid and long-term strategy; acting as an ambassador with the school’s educational partners; speaking at conferences as representative of the school on a range of political issues; furthering relationships with British Council and High Commissions overseas; travelling abroad roughly once every eighteen months to partner schools abroad.Payments made by St Piran’s School, a wholly owned subsidiary of the LSC; Chaucer House, White Hart Yard, London SE1 1NX:",
@@ -599,7 +599,7 @@ export const poiData = [
   },
   {
     id: "275",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Field",
     title: "Remunerated employment, office, profession etc",
     description:
       "Board Advisor to Ellwood Atfield; a specialist recruitment firm in the public affairs and communications sector.  The role includes representing the company in general, providing introductions to the business, advice to management and general insight on recruitment business issues; introducing the company to opportunities and speaking at client and industry events.  Address: 34 Smith Square, London SW1P 3HL.",
@@ -610,7 +610,7 @@ export const poiData = [
   },
   {
     id: "282",
-    name: "Gifts, benefits and hospitality (UK)",
+    name: "Mark Field",
     title: "Gifts, benefits and hospitality (UK)",
     description:
       "Name of donor: Imperial TobaccoAddress of donor: PO Box 525, Winterstoke Road, Bristol BS99 1LQAmount of donation or nature and value if donation in kind: two tickets for the Men’s final at the All-England Club, Wimbledon on 6 July 2014, and associated hospitality, valued at about £1,600 in totalDate of receipt of donation: 6 July 2014Date of acceptance of donation: 6 July 2014Donor status: company, registration 1860181",
@@ -621,7 +621,7 @@ export const poiData = [
   },
   {
     id: "285",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Fitzpatrick",
     title: "Remunerated employment, office, profession etc",
     description: "Fee for survey from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -631,7 +631,7 @@ export const poiData = [
   },
   {
     id: "286",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Fitzpatrick",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from YouGov, 50 Featherstone St, London EC1Y 8RT, for online surveys:",
@@ -642,7 +642,7 @@ export const poiData = [
   },
   {
     id: "290",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Contract with Quercus Editions Limited for writing a book. Address: Quercus Editions Limited, 55 Baker Street, 7th Floor, South Block, London, W1U 8EW.",
@@ -653,7 +653,7 @@ export const poiData = [
   },
   {
     id: "291",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Contract with The European Azerbaijan Society for translation rights of my book. Address: 15 Queen Anne's Gate, London, SW1H 9BU:",
@@ -664,7 +664,7 @@ export const poiData = [
   },
   {
     id: "292",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News UK and Ireland, 1 London Bridge Street, London, SE1 9GF:",
@@ -675,7 +675,7 @@ export const poiData = [
   },
   {
     id: "314",
-    name: "Remunerated employment, office, profession etc",
+    name: "Cheryl Gillan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing online surveys:",
@@ -686,7 +686,7 @@ export const poiData = [
   },
   {
     id: "316",
-    name: "Remunerated employment, office, profession etc",
+    name: "Cheryl Gillan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -697,7 +697,7 @@ export const poiData = [
   },
   {
     id: "321",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Glen",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -707,7 +707,7 @@ export const poiData = [
   },
   {
     id: "323",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Glen",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -718,7 +718,7 @@ export const poiData = [
   },
   {
     id: "328",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael Gove",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments by way of royalties for assorted publications from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -729,7 +729,7 @@ export const poiData = [
   },
   {
     id: "341",
-    name: "Remunerated employment, office, profession etc",
+    name: "James Gray",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -739,7 +739,7 @@ export const poiData = [
   },
   {
     id: "342",
-    name: "Remunerated employment, office, profession etc",
+    name: "James Gray",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT.",
     latitude: "51.52485",
@@ -749,7 +749,7 @@ export const poiData = [
   },
   {
     id: "351",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Gwynne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for online surveys:",
@@ -760,7 +760,7 @@ export const poiData = [
   },
   {
     id: "358",
-    name: "Remunerated employment, office, profession etc",
+    name: "William Hague",
     title: "Remunerated employment, office, profession etc",
     description:
       "Secondary royalty earnings in relation to a biography:Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -769,7 +769,7 @@ export const poiData = [
   },
   {
     id: "359",
-    name: "Remunerated employment, office, profession etc",
+    name: "William Hague",
     title: "Remunerated employment, office, profession etc",
     description:
       "Secondary royalty earnings in relation to books already written (No additional hours worked):Payments from AudioGO Ltd, St James House, The Square, Lower Bristol Rd, Bath BA2 3BH:",
@@ -778,7 +778,7 @@ export const poiData = [
   },
   {
     id: "362",
-    name: "Gifts, benefits and hospitality (UK)",
+    name: "William Hague",
     title: "Gifts, benefits and hospitality (UK)",
     description:
       "Name of donor: The Travellers ClubAddress of donor: 106 Pall Mall, London SW1Y 5EP.Amount of donation or nature and value if donation in kind: honorary membership of the club (value: £1,440 per year for 2014)Date of first receipt of donation: 12 July 2010Date of acceptance of donation: 12 July 2010Donor status: unincorporated association",
@@ -787,7 +787,7 @@ export const poiData = [
   },
   {
     id: "365",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Hain",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Sunday Telegraph, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -796,7 +796,7 @@ export const poiData = [
   },
   {
     id: "371",
-    name: "Remunerated employment, office, profession etc",
+    name: "Robert Halfon",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -807,7 +807,7 @@ export const poiData = [
   },
   {
     id: "387",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received as Trustee of the Sundorne Estate.  Payments for administration and attending meetings made by Balfours, Windsor House, Windsor Place, Shrewsbury SY1 2BY.",
@@ -818,7 +818,7 @@ export const poiData = [
   },
   {
     id: "388",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing Parliamentary Panel Surveys:",
@@ -829,7 +829,7 @@ export const poiData = [
   },
   {
     id: "389",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing Parliamentary Panel Surveys:",
@@ -840,7 +840,7 @@ export const poiData = [
   },
   {
     id: "397",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nick Herbert",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News International Supply Co Ltd, Cygnet Park, 200 Serpentine Way, Peterborough PE7 8FD, for newspaper articles:",
@@ -849,7 +849,7 @@ export const poiData = [
   },
   {
     id: "398",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nick Herbert",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments of from Deloitte LLP, Stonecutter Court, 1 Stonecutter Street, London EC4A 4TR:",
@@ -858,7 +858,7 @@ export const poiData = [
   },
   {
     id: "413",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adam Holloway",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -869,7 +869,7 @@ export const poiData = [
   },
   {
     id: "415",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adam Holloway",
     title: "Remunerated employment, office, profession etc",
     description:
       "Cascade News Ltd, 11 Park Road, Manchester M8 4HT, for completing surveys:",
@@ -880,7 +880,7 @@ export const poiData = [
   },
   {
     id: "418",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jimmy Hood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing surveys for CommunicateResearch Ltd, 4 Millbank, London SW1P 3JA:",
@@ -889,7 +889,7 @@ export const poiData = [
   },
   {
     id: "420",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jimmy Hood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee for completing survey for YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -898,7 +898,7 @@ export const poiData = [
   },
   {
     id: "431",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tristram Hunt",
     title: "Remunerated employment, office, profession etc",
     description:
       "Salary as lecturer at Queen Mary, University of London, Mile End Road, London E1 4NS:",
@@ -909,7 +909,7 @@ export const poiData = [
   },
   {
     id: "434",
-    name: "Remunerated employment, office, profession etc",
+    name: "Huw Irranca-Davies",
     title: "Remunerated employment, office, profession etc",
     description: "Surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",
     latitude: "51.496816",
@@ -919,7 +919,7 @@ export const poiData = [
   },
   {
     id: "435",
-    name: "Remunerated employment, office, profession etc",
+    name: "Huw Irranca-Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -930,7 +930,7 @@ export const poiData = [
   },
   {
     id: "437",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stewart Jackson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Opinion surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",
@@ -941,7 +941,7 @@ export const poiData = [
   },
   {
     id: "438",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stewart Jackson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Lecturer in British Government and Politics at Richmond University (the American International University in London), Queen’s Road Richmond-upon-Thames TW10 6JP.",
@@ -952,7 +952,7 @@ export const poiData = [
   },
   {
     id: "446",
-    name: "Remunerated employment, office, profession etc",
+    name: "Bernard Jenkin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Aros Corporation Limited, 112 Eversleigh Road, London SW11 5XB, (formerly Envoy Media, 11 Grosvenor Crescent, London SW1X 7EE), for regular column in Diplomat Magazine.  Two hours work per month:",
@@ -963,7 +963,7 @@ export const poiData = [
   },
   {
     id: "453",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Jones",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -973,7 +973,7 @@ export const poiData = [
   },
   {
     id: "455",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kevan Jones",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -983,7 +983,7 @@ export const poiData = [
   },
   {
     id: "457",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tessa Jowell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from BSkyB, Grant Way, Isleworth, Middlesex TW7 5QD for press previews:",
@@ -992,7 +992,7 @@ export const poiData = [
   },
   {
     id: "463",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tessa Jowell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Received from the Corporate Research Forum, One Heddon Street, London W1B 4BD, (two thirds of the agreed sum) for chairing and moderating the Forum's annual conference held in Berlin on 29 September to 1 October 2014.",
@@ -1001,7 +1001,7 @@ export const poiData = [
   },
   {
     id: "471",
-    name: "Overseas visits",
+    name: "Tessa Jowell",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Magic Bus UK; (2) Magic Bus India; (3) British AirwaysAddress of donor: (1) 32-36 Loman St, London SE1 0EH; (2) Todi Estate Rn 5, A Wing,  2nd  floor, Sun Mills Compound Lower Parel (W), Mumbai, India 400 013; (3) Community Investment, Australasia House, Waterside, PO Box 365, Harmondsworth, UB7 0GBAmount of donation (or estimate of the probable value): (1) accommodation in Bangalore estimated at £120 and airline taxes of  £322.35; £442.35 in total; (2) accommodation in New Delhi estimated at £335; (3) Return flights from London to Delhi and Delhi to Bangalore with a total value estimated at £2,120Destination of visit: New Delhi and BangaloreDate of visit: 9 to 15 February 2014Purpose of visit: To participate in a conference as part of my work for Magic Bus, and to volunteer on a Magic Bus project.",
@@ -1010,7 +1010,7 @@ export const poiData = [
   },
   {
     id: "474",
-    name: "Remunerated employment, office, profession etc",
+    name: "Charles Kennedy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:Fees received for participating in BBC’s ‘This Week’ TV programme.  Address: BBC Broadcasting House, Portland Place, London W1A 1AA:",
@@ -1021,7 +1021,7 @@ export const poiData = [
   },
   {
     id: "483",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Lammy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1032,7 +1032,7 @@ export const poiData = [
   },
   {
     id: "487",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Lammy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee from Cumberlege Connections Ltd, Snells Cottage, The Green, Newick, Lewes BN8 4LA:",
@@ -1043,7 +1043,7 @@ export const poiData = [
   },
   {
     id: "493",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Lazarowicz",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in opinion surveys.  Payments used towards cost of my parliamentary newsletter.",
@@ -1054,7 +1054,7 @@ export const poiData = [
   },
   {
     id: "497",
-    name: "Remunerated employment, office, profession etc",
+    name: "Phillip Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received in my capacity as a freelance GP:Payments from Bracknell Urgent Care Centre, c/o One Medicare Limited, The Business Centre, Banktop Farm, Black Hill Road, Leeds LS21 1PY:",
@@ -1065,7 +1065,7 @@ export const poiData = [
   },
   {
     id: "498",
-    name: "Remunerated employment, office, profession etc",
+    name: "Phillip Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Express Newspapers, The Northern & Shell Building, 10 Lower Thames Street, London EC3R 6EN:",
@@ -1076,7 +1076,7 @@ export const poiData = [
   },
   {
     id: "502",
-    name: "Overseas visits",
+    name: "Christopher Leslie",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Chatham House; (2) Centre for European ReformAddress of donor: (1) 10 St James’s Square, London SW1Y 4LE; (2) 14 Great College St, London SW1P 3RXAmount of donation (or estimate of the probable value): (1) Return flights at £453.64 and car parking at £60.70; (2) Hotel stay for two nights at £254; £768.34 in totalDestination of visit: Krakow, PolandDate of visit: 5-7 June 2014Purpose of visit: To attend British-Polish round table event",
@@ -1085,7 +1085,7 @@ export const poiData = [
   },
   {
     id: "505",
-    name: "Remunerated employment, office, profession etc",
+    name: "Emma Lewell-Buck",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1096,7 +1096,7 @@ export const poiData = [
   },
   {
     id: "513",
-    name: "Remunerated directorships",
+    name: "Peter Lilley",
     title: "Remunerated directorships",
     description:
       "IDOX plc (formerly i-documentsystems group plc) (non-executive); information advisory services, document management software and systems.  Address:  Chancery Exchange, 10 Furnival St, London EC4A 1AB:",
@@ -1105,7 +1105,7 @@ export const poiData = [
   },
   {
     id: "522",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Mann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from ComRes, Four Millbank, London SW1P 3JA, following the completion of surveys. Payment made to Bassetlaw CLP:",
@@ -1114,7 +1114,7 @@ export const poiData = [
   },
   {
     id: "524",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Mann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Whitefox, @Work Hubs, 105a Euston Street, London NW1 2EW, on commission by the Pears Foundation, Clive House, 2 Old Brewery Mews, London NW3 1PZ, for preparation of a manuscript for a book.",
@@ -1123,7 +1123,7 @@ export const poiData = [
   },
   {
     id: "526",
-    name: "Overseas visits",
+    name: "John Mann",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Coventry Building Society; (2) British Outdoor Industries Association; (3) BerghausAddress of donor: (1) Binley Business Park, Harry Weston Road, Coventry CV3 2TQ; (2) 12 Church Street, Windermere, Cumbria, LA23 1AQ; (3) 12 Colima Avenue, Sunderland Enterprise Park, Sunderland. SR5 3XBAmount of donation (or estimate of the probable value):  (1) £2,500    (2) £200     (3) £350Destination of visit: Iliniza, Cayembe, Cotopaxi in Ecuador.Date of visit: 28 May- 9 June 2014Purpose of visit: to launch the Royal British Legion Battle Back recovery centre expeditions with injured soldiers.",
@@ -1132,7 +1132,7 @@ export const poiData = [
   },
   {
     id: "534",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael McCann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1143,7 +1143,7 @@ export const poiData = [
   },
   {
     id: "535",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael McCann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from You Gov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -1154,7 +1154,7 @@ export const poiData = [
   },
   {
     id: "541",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jason McCartney",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -1164,7 +1164,7 @@ export const poiData = [
   },
   {
     id: "542",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jason McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov, 50 Featherstone Street, London EC1Y 8RT, for opinion survey:",
@@ -1175,7 +1175,7 @@ export const poiData = [
   },
   {
     id: "545",
-    name: "Remunerated employment, office, profession etc",
+    name: "Karl McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1186,7 +1186,7 @@ export const poiData = [
   },
   {
     id: "546",
-    name: "Remunerated employment, office, profession etc",
+    name: "Karl McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for opinion surveys:",
@@ -1197,7 +1197,7 @@ export const poiData = [
   },
   {
     id: "548",
-    name: "Remunerated employment, office, profession etc",
+    name: "Gregg McClymont",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -1208,7 +1208,7 @@ export const poiData = [
   },
   {
     id: "549",
-    name: "Remunerated employment, office, profession etc",
+    name: "Gregg McClymont",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys:",
@@ -1219,7 +1219,7 @@ export const poiData = [
   },
   {
     id: "553",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alison McGovern",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -1230,7 +1230,7 @@ export const poiData = [
   },
   {
     id: "558",
-    name: "Directorships",
+    name: "Stephen McPartland",
     title: "Directorships",
     description:
       "McPartland Consulting Ltd, Richmond House, Walkern Road, Stevenage, Herts, SG1 3QP; strategic consultancy business.",
@@ -1241,7 +1241,7 @@ export const poiData = [
   },
   {
     id: "560",
-    name: "Clients",
+    name: "Stephen McPartland",
     title: "Clients",
     description:
       "Fees from Association of Welding Distribution (AWD), Secure Hold Business Centre, Studley Road, Redditch B98 7LG, for provision of strategic consultancy advice:",
@@ -1252,7 +1252,7 @@ export const poiData = [
   },
   {
     id: "570",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nigel Mills",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from CommunicateResearch Ltd, Coveham House, Downside Bridge Road, Cobham, Surrey KT11 3EP for opinion research:",
@@ -1263,7 +1263,7 @@ export const poiData = [
   },
   {
     id: "571",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nigel Mills",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys:",
@@ -1274,7 +1274,7 @@ export const poiData = [
   },
   {
     id: "574",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Mitchell",
     title: "Remunerated employment, office, profession etc",
     description:
       "The Foundation, 82 Dean St, London W1D 3SP; growth and innovation consultancy. Member of the Advisory Board. Remuneration: £3,000 a day, with an expected time commitment of 6 days a year from February 2013.",
@@ -1285,7 +1285,7 @@ export const poiData = [
   },
   {
     id: "575",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Mitchell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Montrose Associates, 97, Jermyn Street, London SW1Y 6JE; strategic consultancy. Senior Adviser. Remuneration: £3,000 a day, with an expected time commitment of one day a month from March 2013.",
@@ -1296,7 +1296,7 @@ export const poiData = [
   },
   {
     id: "592",
-    name: "Remunerated employment, office, profession etc",
+    name: "Greg Mulholland",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes for participation in parliamentary panel surveys.  Address: Four Millbank, London SW1P 3JA:",
@@ -1307,7 +1307,7 @@ export const poiData = [
   },
   {
     id: "596",
-    name: "Remunerated employment, office, profession etc",
+    name: "Meg Munn",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from Comres, 4 Millbank London SW1P 3SE, for completing surveys:",
@@ -1318,7 +1318,7 @@ export const poiData = [
   },
   {
     id: "600",
-    name: "Overseas visits",
+    name: "Meg Munn",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Council of Christians and Jews (2) the Yad VashemAddress of donor: (1) 21 Godliman Street, London EC4V 5BD (2) P.O.B. 3477, Jerusalem 9103401, IsraelAmount of donation (or estimate of the probable value): (1) flights, accommodation and subsistence, £1,150 (2) cost of course and associated materials, and transport to Yad Vashem, £450; total £1,600Destination of visit: Jerusalem, IsraelDate of visit: 12-14 November 2014Purpose of visit: to attend a series of seminars at the Yad Vashem Institute",
@@ -1329,7 +1329,7 @@ export const poiData = [
   },
   {
     id: "603",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Murphy",
     title: "Remunerated employment, office, profession etc",
     description: "Payments received from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -1339,7 +1339,7 @@ export const poiData = [
   },
   {
     id: "623",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Nuttall",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -1349,7 +1349,7 @@ export const poiData = [
   },
   {
     id: "643",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Percy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1360,7 +1360,7 @@ export const poiData = [
   },
   {
     id: "652",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stephen Phillips",
     title: "Remunerated employment, office, profession etc",
     description:
       "Crown Court Recorder. Payments received from Ministry of Justice, 102 Petty France, London SW1H 9AJ:",
@@ -1371,7 +1371,7 @@ export const poiData = [
   },
   {
     id: "657",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Times. Address: 1 Virginia Street, London E98 1XY:",
@@ -1382,7 +1382,7 @@ export const poiData = [
   },
   {
     id: "659",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Daily Mail and Mail on Sunday, Northcliffe House, 2 Derry Street, London W8 5TT:",
@@ -1393,7 +1393,7 @@ export const poiData = [
   },
   {
     id: "660",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Sunday Times, 3 Thomas More Square, London E98 1XY, for articles:",
@@ -1404,7 +1404,7 @@ export const poiData = [
   },
   {
     id: "665",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Hon vice-chairman (from June 2009), Construction Industry Council, 26 Store Street, London, WC1E 7BT.  CIC is the representative body for professionals working in the construction industry.  Work involves assisting the chairman and chief executive in the oversight and strategic direction of CIC, attendance at board meetings and other CIC activities",
@@ -1415,7 +1415,7 @@ export const poiData = [
   },
   {
     id: "666",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Chairman, NHBC Foundation, 4th floor, 120 Cannon Street, London, EC4N 6AS. The NHBC Foundation promotes research to support the development of sustainable housing. Work involves oversight of the Foundation’s research programme and dissemination of good practice, including chairing meetings of the advisory board.",
@@ -1426,7 +1426,7 @@ export const poiData = [
   },
   {
     id: "667",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Hometrack (non-executive), 6th Floor, the Chambers, Chelsea Harbour, London, SW10 0XF; an organisation providing valuation and related services in the housing market.  Work involves advising the company on relevant housing matters and attendance at board meetings.",
@@ -1437,7 +1437,7 @@ export const poiData = [
   },
   {
     id: "668",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "President of the Constructionarium, Riverside House, 4 Meadows Business Park, Station Approach, Blackwater, Camberley, Surrey, GU17 9AB.  The project promotes practical site-based development opportunities for students undertaking Built Environment degree courses.  Work involves advising the organisation on the development of its construction training activities.",
@@ -1448,7 +1448,7 @@ export const poiData = [
   },
   {
     id: "672",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Reckless",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for articles written for Associated Newspapers Ltd, 2 Derry Street, London W8 5TT:",
@@ -1459,7 +1459,7 @@ export const poiData = [
   },
   {
     id: "674",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Redwood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Visiting Professorship to Middlesex University Business School, lecturing on financial subjects related to my previous career.  Address: The Burroughs, London, NW4 4BT.",
@@ -1470,7 +1470,7 @@ export const poiData = [
   },
   {
     id: "676",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Redwood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Guardian News & Media Group, Kings Place, 90 York Way, London N1 9GU:",
@@ -1481,7 +1481,7 @@ export const poiData = [
   },
   {
     id: "682",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Reevell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Crown Prosecution Service.  Address:  Rose Court, 2 Southwark Bridge, London SE1 9HS:",
@@ -1492,7 +1492,7 @@ export const poiData = [
   },
   {
     id: "683",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Reevell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Armed Forces Criminal Legal Aid Authority (AFCLAA).  Address:  Building 398c Room 10, Trenchard Lines, Upavon, Pewsey, Wiltshire SN9 6BE:",
@@ -1503,7 +1503,7 @@ export const poiData = [
   },
   {
     id: "687",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Reevell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from West Yorkshire Probation Trust (WYPT). Address: Cliff Hill House, 3 Sandy Walk, Wakefield WF1 2DJ:",
@@ -1514,7 +1514,7 @@ export const poiData = [
   },
   {
     id: "688",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Reevell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Military Courts Services LLP. Address: c/o NPHI Ltd, 2nd Floor Berkeley Square House, Berkeley Square, London W1J 6BD:",
@@ -1525,7 +1525,7 @@ export const poiData = [
   },
   {
     id: "693",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jonathan Reynolds",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for market research:",
@@ -1536,7 +1536,7 @@ export const poiData = [
   },
   {
     id: "694",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jonathan Reynolds",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for market research:",
@@ -1547,7 +1547,7 @@ export const poiData = [
   },
   {
     id: "700",
-    name: "Remunerated employment, office, profession etc",
+    name: "Malcolm Rifkind",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from London Evening Standard, 2 Derry Street, London W8 5TT:",
@@ -1558,7 +1558,7 @@ export const poiData = [
   },
   {
     id: "714",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Ruane",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1569,7 +1569,7 @@ export const poiData = [
   },
   {
     id: "719",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Ruffley",
     title: "Remunerated employment, office, profession etc",
     description: "Fees from YouGov, 50 Featherstone Street, London, EC1Y 8RT:",
     latitude: "51.52485",
@@ -1579,7 +1579,7 @@ export const poiData = [
   },
   {
     id: "721",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Ruffley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, 4 Millbank, London, SW1P 3JA for completing surveys:",
@@ -1590,7 +1590,7 @@ export const poiData = [
   },
   {
     id: "723",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adrian Sanders",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing opinion polls:",
@@ -1601,7 +1601,7 @@ export const poiData = [
   },
   {
     id: "728",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Selous",
     title: "Remunerated employment, office, profession etc",
     description:
       "ComRes 4 Millbank London SW1P 3JA:Received £75 for taking part in the January 2014 Parliamentary Panel Survey. Hours: 25 mins. (Registered 11 March 2014)",
@@ -1612,7 +1612,7 @@ export const poiData = [
   },
   {
     id: "729",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Selous",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT:",
     latitude: "51.52485",
@@ -1622,7 +1622,7 @@ export const poiData = [
   },
   {
     id: "734",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Sheridan",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA.",
     latitude: "51.496816",
@@ -1632,7 +1632,7 @@ export const poiData = [
   },
   {
     id: "735",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Sheridan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov plc, 50 Featherstone Street, London EC1Y 8RT:",
@@ -1643,7 +1643,7 @@ export const poiData = [
   },
   {
     id: "742",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Skidmore",
     title: "Remunerated employment, office, profession etc",
     description:
       "Author.Payments via Jonathan Pegg Literary Agency, 32 Batoum Gardens, London W6 7QD, from The Orion Publishing Group, Orion House, 5 Upper Saint Martin's Lane, London WC2H 9EA:",
@@ -1654,7 +1654,7 @@ export const poiData = [
   },
   {
     id: "746",
-    name: "Remunerated employment, office, profession etc",
+    name: "Henry Smith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for completion of surveys:",
@@ -1665,7 +1665,7 @@ export const poiData = [
   },
   {
     id: "747",
-    name: "Remunerated employment, office, profession etc",
+    name: "Henry Smith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -1676,7 +1676,7 @@ export const poiData = [
   },
   {
     id: "751",
-    name: "Remunerated directorships",
+    name: "Nicholas Soames",
     title: "Remunerated directorships",
     description:
       "AEGIS Defence Services Limited (non-executive).  Address: 84 Eccleston Square, London SW1V 1PX. Attend meetings in pursuit of duties as non-executive director and (since 1 January 2010) non-executive chairman.",
@@ -1687,7 +1687,7 @@ export const poiData = [
   },
   {
     id: "757",
-    name: "Remunerated employment, office, profession etc",
+    name: "Caroline Spelman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Civil Service Learning, Quadrant Court, 49 Calthorpe Road, Edgbaston, Birmingham B15 1TH, for talks for the Civil Service Fast Stream on Understanding Government:",
@@ -1698,7 +1698,7 @@ export const poiData = [
   },
   {
     id: "764",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments of from Telegraph Media Group Ltd, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -1709,7 +1709,7 @@ export const poiData = [
   },
   {
     id: "765",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News UK & Ireland Limited, 3 Thomas More Square, London E98 1XY:",
@@ -1720,7 +1720,7 @@ export const poiData = [
   },
   {
     id: "766",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Red Bee Media, Ealing Cross, 85 Uxbridge Road, Ealing, London W5 5TH:",
@@ -1731,7 +1731,7 @@ export const poiData = [
   },
   {
     id: "767",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Financial Times Ltd, Number One Southwark Bridge, London SE1 9HL:",
@@ -1742,7 +1742,7 @@ export const poiData = [
   },
   {
     id: "769",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from Trinity College Cambridge, Cambridge, CB2 1TQ:",
     latitude: "52.206938",
@@ -1752,7 +1752,7 @@ export const poiData = [
   },
   {
     id: "773",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jack Straw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Associated Newspapers, 2 Derry Street, London W8 5TT:",
@@ -1763,7 +1763,7 @@ export const poiData = [
   },
   {
     id: "787",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Stunell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing opinion surveys:",
@@ -1772,7 +1772,7 @@ export const poiData = [
   },
   {
     id: "795",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Tami",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Populus, Northburgh House, 10, Northburgh Street, London, EC1V 0AT, for surveys:",
@@ -1783,7 +1783,7 @@ export const poiData = [
   },
   {
     id: "817",
-    name: "Remunerated employment, office, profession etc",
+    name: "Joan Walley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participating in opinion research panel:",
@@ -1794,7 +1794,7 @@ export const poiData = [
   },
   {
     id: "818",
-    name: "Remunerated employment, office, profession etc",
+    name: "Joan Walley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from Populus Ltd, 10 Northborough Street, London EC1V 0AT, for participating in opinion research panel:",
@@ -1805,7 +1805,7 @@ export const poiData = [
   },
   {
     id: "824",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tom Watson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing opinion surveys:",
@@ -1816,7 +1816,7 @@ export const poiData = [
   },
   {
     id: "827",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael Weir",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -1825,7 +1825,7 @@ export const poiData = [
   },
   {
     id: "830",
-    name: "Remunerated employment, office, profession etc",
+    name: "Heather Wheeler",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.  Payments donated to South Derbyshire Conservative Association:",
@@ -1836,7 +1836,7 @@ export const poiData = [
   },
   {
     id: "833",
-    name: "Remunerated employment, office, profession etc",
+    name: "Heather Wheeler",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for Populus Ltd, Northburgh House, 10 Northburgh Street, London EC1V 0AT: Payments donated to South Derbyshire Conservative Association:",
@@ -1847,7 +1847,7 @@ export const poiData = [
   },
   {
     id: "837",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Whittingdale",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in surveys:",
@@ -1858,7 +1858,7 @@ export const poiData = [
   },
   {
     id: "838",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Whittingdale",
     title: "Remunerated employment, office, profession etc",
     description:
       "Cultural and Political Adviser on the Museum of the Jewish Soldier in World War II project in Israel; contract for 12 months. Payments are made by Curzon PR, 28 Grosvenor Street, London, W1K 4QR.",
@@ -1869,7 +1869,7 @@ export const poiData = [
   },
   {
     id: "852",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tim Yeo",
     title: "Remunerated employment, office, profession etc",
     description:
       "Adviser to Meade Hall & Associates, 1 Meade Mews, Causton Street, London SW1P 4EG, a strategic communications consultancy. I advise on matters relating to the construction of new nuclear power stations in Europe.",
@@ -1880,7 +1880,7 @@ export const poiData = [
   },
   {
     id: "877",
-    name: "Remunerated directorships",
+    name: "Tony Baldry",
     title: "Remunerated directorships",
     description:
       "Deputy Chairman, Woburn Energy plc, 16 Upper Woburn Place, London, WC1H 0AF; AIM listed company specialising in oil exploration and recovery.  Work includes attending meetings and advising on business opportunities.",
@@ -1891,7 +1891,7 @@ export const poiData = [
   },
   {
     id: "888",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Baron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Monthly investment column in the FTs’ Investors Chronicle magazine. Address: Number One Southwark Bridge, London SE1 9HL. All fees waived in lieu of FT donations to charities of Mr Baron’s choice.",
@@ -1902,7 +1902,7 @@ export const poiData = [
   },
   {
     id: "889",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Baron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from the Investors Chronicle magazine, for speaking at investment seminars. Address: Number One Southwark Bridge, London SE1 9HL:",
@@ -1913,7 +1913,7 @@ export const poiData = [
   },
   {
     id: "891",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kevin Barron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing opinion surveys for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -1924,7 +1924,7 @@ export const poiData = [
   },
   {
     id: "894",
-    name: "Remunerated employment, office, profession etc",
+    name: "Guto Bebb",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -1935,7 +1935,7 @@ export const poiData = [
   },
   {
     id: "900",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alan Beith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion research:",
@@ -1944,7 +1944,7 @@ export const poiData = [
   },
   {
     id: "915",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Beresford",
     title: "Remunerated employment, office, profession etc",
     description:
       "Employed as part-time dental surgeon for Beresford Dental Practice Limited, 207 Upper Richmond Road, SW15 6SQ:",
@@ -1955,7 +1955,7 @@ export const poiData = [
   },
   {
     id: "921",
-    name: "Remunerated employment, office, profession etc",
+    name: "Clive Betts",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys. All fees are paid direct to my constituency party:",
@@ -1966,7 +1966,7 @@ export const poiData = [
   },
   {
     id: "923",
-    name: "Remunerated employment, office, profession etc",
+    name: "Bob Blackman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -1977,7 +1977,7 @@ export const poiData = [
   },
   {
     id: "931",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Blomfield",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee for completing survey for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -1988,7 +1988,7 @@ export const poiData = [
   },
   {
     id: "934",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Blomfield",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from Guardian News & Media Ltd, Kings Place, 90 York Way, London N1 9GU:",
@@ -1999,7 +1999,7 @@ export const poiData = [
   },
   {
     id: "938",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for articles written for Associated Newspapers Ltd, 2 Derry Street, London W8 5TT:",
@@ -2008,7 +2008,7 @@ export const poiData = [
   },
   {
     id: "939",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Member of the Oracle Capital Advisory Board, Oracle House, 8-12 Welbeck Way, London W1G 9YL.  Four meetings annually plus charitable fundraising events:",
@@ -2017,7 +2017,7 @@ export const poiData = [
   },
   {
     id: "940",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Guardian (Kings Place, 90 York Way, London N1 9GU):",
@@ -2026,7 +2026,7 @@ export const poiData = [
   },
   {
     id: "953",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Bone",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing surveys for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -2037,7 +2037,7 @@ export const poiData = [
   },
   {
     id: "955",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Bone",
     title: "Remunerated employment, office, profession etc",
     description: "Fee from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
     latitude: "51.52485",
@@ -2047,7 +2047,7 @@ export const poiData = [
   },
   {
     id: "961",
-    name: "Remunerated employment, office, profession etc",
+    name: "Ben Bradshaw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -2058,7 +2058,7 @@ export const poiData = [
   },
   {
     id: "962",
-    name: "Remunerated employment, office, profession etc",
+    name: "Ben Bradshaw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -2069,7 +2069,7 @@ export const poiData = [
   },
   {
     id: "963",
-    name: "Remunerated employment, office, profession etc",
+    name: "Graham Brady",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for responding to opinion research:Fee of £75 paid direct to charity on 29 September 2014 for September Panel survey.",
@@ -2080,7 +2080,7 @@ export const poiData = [
   },
   {
     id: "980",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Bryant",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Guardian, Kings Place, 90 York Way, London N1 9GU:",
@@ -2091,7 +2091,7 @@ export const poiData = [
   },
   {
     id: "984",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Burstow",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for speaking at Westminster Explained events, Dods, 21 Dartmouth Street, Westminster London SW1H 9BP. All fees donated to Sutton Liberal Democrats:",
@@ -2102,7 +2102,7 @@ export const poiData = [
   },
   {
     id: "985",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Burstow",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for completing opinion surveys from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys. All fees donated to Sutton Liberal Democrats:",
@@ -2113,7 +2113,7 @@ export const poiData = [
   },
   {
     id: "988",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alistair Burt",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from PLLG Investors Advisors Ltd, 1200 Century Way, Thorpe Business Park, Leeds LS15 8ZA:",
@@ -2124,7 +2124,7 @@ export const poiData = [
   },
   {
     id: "1000",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Byrne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for teaching received from Oxford University Said Business School, University of Oxford, OX1 5NY:",
@@ -2135,7 +2135,7 @@ export const poiData = [
   },
   {
     id: "1001",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Byrne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB, for licencing fees:",
@@ -2146,7 +2146,7 @@ export const poiData = [
   },
   {
     id: "1003",
-    name: "Overseas visits",
+    name: "Liam Byrne",
     title: "Overseas visits",
     description:
       "Name of donor: (1) UK China Forum Ltd, a not for profit company established by the Great Britain China Centre for the purpose of promoting UK-China dialogues, from sponsorship by HSBC and Prudential (2) All China Youth FederationAddress of donor: (1) 15 Belgrave Square, London SW1X 8PS (2) 10, Qianmen Dong Dajie, Beijing, 100051, People’s Republic of ChinaAmount of donation (or estimate of the probable value): (1) £1,200.21 for air ticket and visa (2) three night’s bed and breakfast in hotels in Beijing and Chongqing at an estimated cost of £80 per night (£240); total £1,440.21Destination of visit: Beijing and Chongqing, ChinaDate of visit: 22-15 July 2014Purpose of visit: to attend the 2014 UK-China Young Leaders Roundtable, organised by the Great Britain China Centre, UK China Forum Ltd and All-China Youth Federation to discuss building UK-China partnership for reform and innovation.",
@@ -2157,7 +2157,7 @@ export const poiData = [
   },
   {
     id: "1006",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for completion of surveys:",
@@ -2168,7 +2168,7 @@ export const poiData = [
   },
   {
     id: "1007",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for online surveys:",
@@ -2179,7 +2179,7 @@ export const poiData = [
   },
   {
     id: "1009",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Populus, Northburgh House, 10 Northburgh Street, London EC1V 0AT, for opinion surveys:",
@@ -2190,7 +2190,7 @@ export const poiData = [
   },
   {
     id: "1024",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kenneth Clarke",
     title: "Remunerated employment, office, profession etc",
     description:
       "Received £12,000 via Speakers in Partnership, 33 Sun Street, London EC2M 2PA for",
@@ -2199,7 +2199,7 @@ export const poiData = [
   },
   {
     id: "1030",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rosie Cooper",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for completion of surveys:",
@@ -2210,7 +2210,7 @@ export const poiData = [
   },
   {
     id: "1034",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jeremy Corbyn",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -2221,7 +2221,7 @@ export const poiData = [
   },
   {
     id: "1039",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tracey Crouch",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys.  :",
@@ -2232,7 +2232,7 @@ export const poiData = [
   },
   {
     id: "1041",
-    name: "Overseas visits",
+    name: "Tracey Crouch",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Coventry Building Society; (2) British Outdoor Industries Association; (3) Berghaus.Address of donor: (1) Binley Business Park, Harry Weston Road, Coventry CV3 2TQ; (2) 12 Church Street, Windemere, Cumbria, LA23 1AQ; (3) 12 Colima Avenue, Sunderland Enterprise Park, Sunderland. SR5 3XBAmount of donation (or estimate of the probable value):  (1) £2,500    (2) £200     (3) £350Destination of visit: Iliniza, Cayembe, Cotopaxi in Ecuador.Date of visit: 28 May- 9 June 2014Purpose of visit: to launch the Royal British Legion Battle Back recovery centre expeditions with injured soldiers.",
@@ -2243,7 +2243,7 @@ export const poiData = [
   },
   {
     id: "1047",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion research:",
@@ -2252,7 +2252,7 @@ export const poiData = [
   },
   {
     id: "1048",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street London EC1Y 8RT, for opinion research:",
@@ -2261,7 +2261,7 @@ export const poiData = [
   },
   {
     id: "1049",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Envoy Partnership, 1 Alfred Place, 2nd Floor, London WC1V 6AX, for opinion research:",
@@ -2270,7 +2270,7 @@ export const poiData = [
   },
   {
     id: "1051",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Biteback Publishing, Westminster Tower, 3 Albert Embankment, London, SE1 7SP for a book I co-wrote:",
@@ -2281,7 +2281,7 @@ export const poiData = [
   },
   {
     id: "1052",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from DMGT PLC, Registered Office: Northcliffe House, 2 Derry St, Kensington, London, W8 5TT:",
@@ -2292,7 +2292,7 @@ export const poiData = [
   },
   {
     id: "1054",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Telegraph Media Group Ltd, 111 Buckingham Palace Road London SW1W 0DT:",
@@ -2303,7 +2303,7 @@ export const poiData = [
   },
   {
     id: "1055",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from the Guardian Media Group, Kings Place, 90 York Way, London N1 9GU:",
@@ -2314,7 +2314,7 @@ export const poiData = [
   },
   {
     id: "1058",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alistair Darling",
     title: "Remunerated employment, office, profession etc",
     description:
       "15 May 2014, I received a further payment of £597.77 in respect of royalties payable under my contract with Atlantic Books, previously registered.  Time spent:  nil. Address of payer: Capell and Land Ltd, 29 Wardour Street, London, W1D 6PS.",
@@ -2323,7 +2323,7 @@ export const poiData = [
   },
   {
     id: "1064",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.",
@@ -2332,7 +2332,7 @@ export const poiData = [
   },
   {
     id: "1065",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Capita Business Services, 2nd floor, 17-19 Rochester Row, London SW1P 1LA:",
@@ -2341,7 +2341,7 @@ export const poiData = [
   },
   {
     id: "1067",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT,",
@@ -2350,7 +2350,7 @@ export const poiData = [
   },
   {
     id: "1069",
-    name: "Remunerated employment, office, profession etc",
+    name: "Glyn Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes for opinion surveys. Address: Four Millbank, London SW1P 3JA.",
@@ -2361,7 +2361,7 @@ export const poiData = [
   },
   {
     id: "1070",
-    name: "Remunerated employment, office, profession etc",
+    name: "Glyn Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT for opinion surveys:",
@@ -2372,7 +2372,7 @@ export const poiData = [
   },
   {
     id: "1075",
-    name: "Remunerated employment, office, profession etc",
+    name: "Philip Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA:",
@@ -2383,7 +2383,7 @@ export const poiData = [
   },
   {
     id: "1077",
-    name: "Remunerated employment, office, profession etc",
+    name: "Philip Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys.",
@@ -2394,7 +2394,7 @@ export const poiData = [
   },
   {
     id: "1086",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davis",
     title: "Remunerated employment, office, profession etc",
     description:
       "Articles written for News International Group, News International Ltd, 1 Virginia Street, London E98 1XY.",
@@ -2405,7 +2405,7 @@ export const poiData = [
   },
   {
     id: "1087",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davis",
     title: "Remunerated employment, office, profession etc",
     description:
       "Articles written for Associated Newspapers Ltd.  Address: Northcliffe House, 2 Derry Street, Kensington, London W8 5TT:",
@@ -2416,7 +2416,7 @@ export const poiData = [
   },
   {
     id: "1090",
-    name: "Remunerated employment, office, profession etc",
+    name: "Brian H Donohoe",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion research.",
@@ -2425,7 +2425,7 @@ export const poiData = [
   },
   {
     id: "1091",
-    name: "Remunerated employment, office, profession etc",
+    name: "Brian H Donohoe",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for online surveys:",
@@ -2434,7 +2434,7 @@ export const poiData = [
   },
   {
     id: "1114",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Evans",
     title: "Remunerated employment, office, profession etc",
     description:
       "ComRes, 4 Millbank, London, SW1P 3JA, for completing opinion survey:(b)",
@@ -2445,7 +2445,7 @@ export const poiData = [
   },
   {
     id: "1115",
-    name: "Remunerated employment, office, profession etc",
+    name: "Graham Evans",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in opinion research:",
@@ -2456,7 +2456,7 @@ export const poiData = [
   },
   {
     id: "1121",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Farrelly",
     title: "Remunerated employment, office, profession etc",
     description: "Surveys completed for ComRes, 4 Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -2466,7 +2466,7 @@ export const poiData = [
   },
   {
     id: "1127",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Field",
     title: "Remunerated employment, office, profession etc",
     description:
       "As a member of the Advisory Committee I advise on the maintenance of the highest standards of quality and service for the school.  My role covers advising about mid and long-term strategy; acting as an ambassador with the school’s educational partners; speaking at conferences as representative of the school on a range of political issues; furthering relationships with British Council and High Commissions overseas; travelling abroad roughly once every eighteen months to partner schools abroad.Payments made by St Piran’s School, a wholly owned subsidiary of the LSC; Chaucer House, White Hart Yard, London SE1 1NX:",
@@ -2477,7 +2477,7 @@ export const poiData = [
   },
   {
     id: "1128",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Field",
     title: "Remunerated employment, office, profession etc",
     description:
       "Board Advisor to Ellwood Atfield; a specialist recruitment firm in the public affairs and communications sector.  The role includes representing the company in general, providing introductions to the business, advice to management and general insight on recruitment business issues; introducing the company to opportunities and speaking at client and industry events.  Address: 34 Smith Square, London SW1P 3HL.",
@@ -2488,7 +2488,7 @@ export const poiData = [
   },
   {
     id: "1135",
-    name: "Gifts, benefits and hospitality (UK)",
+    name: "Mark Field",
     title: "Gifts, benefits and hospitality (UK)",
     description:
       "Name of donor: Imperial TobaccoAddress of donor: PO Box 525, Winterstoke Road, Bristol BS99 1LQAmount of donation or nature and value if donation in kind: two tickets for the Men’s final at the All-England Club, Wimbledon on 6 July 2014, and associated hospitality, valued at about £1,600 in totalDate of receipt of donation: 6 July 2014Date of acceptance of donation: 6 July 2014Donor status: company, registration 1860181",
@@ -2499,7 +2499,7 @@ export const poiData = [
   },
   {
     id: "1139",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Fitzpatrick",
     title: "Remunerated employment, office, profession etc",
     description: "Fee for survey from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -2509,7 +2509,7 @@ export const poiData = [
   },
   {
     id: "1140",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Fitzpatrick",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from YouGov, 50 Featherstone St, London EC1Y 8RT, for online surveys:",
@@ -2520,7 +2520,7 @@ export const poiData = [
   },
   {
     id: "1144",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Contract with Quercus Editions Limited for writing a book. Address: Quercus Editions Limited, 55 Baker Street, 7th Floor, South Block, London, W1U 8EW.",
@@ -2531,7 +2531,7 @@ export const poiData = [
   },
   {
     id: "1146",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News UK and Ireland, 1 London Bridge Street, London, SE1 9GF:",
@@ -2542,7 +2542,7 @@ export const poiData = [
   },
   {
     id: "1168",
-    name: "Remunerated employment, office, profession etc",
+    name: "Cheryl Gillan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing online surveys:",
@@ -2553,7 +2553,7 @@ export const poiData = [
   },
   {
     id: "1170",
-    name: "Remunerated employment, office, profession etc",
+    name: "Cheryl Gillan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -2564,7 +2564,7 @@ export const poiData = [
   },
   {
     id: "1174",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Glen",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -2574,7 +2574,7 @@ export const poiData = [
   },
   {
     id: "1176",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Glen",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -2585,7 +2585,7 @@ export const poiData = [
   },
   {
     id: "1180",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael Gove",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments by way of royalties for assorted publications from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -2596,7 +2596,7 @@ export const poiData = [
   },
   {
     id: "1193",
-    name: "Remunerated employment, office, profession etc",
+    name: "James Gray",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -2606,7 +2606,7 @@ export const poiData = [
   },
   {
     id: "1194",
-    name: "Remunerated employment, office, profession etc",
+    name: "James Gray",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT.",
     latitude: "51.52485",
@@ -2616,7 +2616,7 @@ export const poiData = [
   },
   {
     id: "1204",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Gwynne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for online surveys:",
@@ -2627,7 +2627,7 @@ export const poiData = [
   },
   {
     id: "1211",
-    name: "Remunerated employment, office, profession etc",
+    name: "William Hague",
     title: "Remunerated employment, office, profession etc",
     description:
       "Secondary royalty earnings in relation to a biography:Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -2636,7 +2636,7 @@ export const poiData = [
   },
   {
     id: "1212",
-    name: "Remunerated employment, office, profession etc",
+    name: "William Hague",
     title: "Remunerated employment, office, profession etc",
     description:
       "Secondary royalty earnings in relation to books already written (No additional hours worked):Payments from AudioGO Ltd, St James House, The Square, Lower Bristol Rd, Bath BA2 3BH:",
@@ -2645,7 +2645,7 @@ export const poiData = [
   },
   {
     id: "1215",
-    name: "Gifts, benefits and hospitality (UK)",
+    name: "William Hague",
     title: "Gifts, benefits and hospitality (UK)",
     description:
       "Name of donor: The Travellers ClubAddress of donor: 106 Pall Mall, London SW1Y 5EP.Amount of donation or nature and value if donation in kind: honorary membership of the club (value: £1,440 per year for 2014)Date of first receipt of donation: 12 July 2010Date of acceptance of donation: 12 July 2010Donor status: unincorporated association",
@@ -2654,7 +2654,7 @@ export const poiData = [
   },
   {
     id: "1218",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Hain",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Sunday Telegraph, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -2663,7 +2663,7 @@ export const poiData = [
   },
   {
     id: "1224",
-    name: "Remunerated employment, office, profession etc",
+    name: "Robert Halfon",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -2674,7 +2674,7 @@ export const poiData = [
   },
   {
     id: "1239",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received as Trustee of the Sundorne Estate.  Payments for administration and attending meetings made by Balfours, Windsor House, Windsor Place, Shrewsbury SY1 2BY.",
@@ -2685,7 +2685,7 @@ export const poiData = [
   },
   {
     id: "1240",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing Parliamentary Panel Surveys:",
@@ -2696,7 +2696,7 @@ export const poiData = [
   },
   {
     id: "1241",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing Parliamentary Panel Surveys:",
@@ -2707,7 +2707,7 @@ export const poiData = [
   },
   {
     id: "1249",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nick Herbert",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News International Supply Co Ltd, Cygnet Park, 200 Serpentine Way, Peterborough PE7 8FD, for newspaper articles:",
@@ -2716,7 +2716,7 @@ export const poiData = [
   },
   {
     id: "1250",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nick Herbert",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments of from Deloitte LLP, Stonecutter Court, 1 Stonecutter Street, London EC4A 4TR:",
@@ -2725,7 +2725,7 @@ export const poiData = [
   },
   {
     id: "1265",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adam Holloway",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -2736,7 +2736,7 @@ export const poiData = [
   },
   {
     id: "1267",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adam Holloway",
     title: "Remunerated employment, office, profession etc",
     description:
       "Cascade News Ltd, 11 Park Road, Manchester M8 4HT, for completing surveys:",
@@ -2747,7 +2747,7 @@ export const poiData = [
   },
   {
     id: "1270",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jimmy Hood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing surveys for CommunicateResearch Ltd, 4 Millbank, London SW1P 3JA:",
@@ -2756,7 +2756,7 @@ export const poiData = [
   },
   {
     id: "1272",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jimmy Hood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee for completing survey for YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -2765,7 +2765,7 @@ export const poiData = [
   },
   {
     id: "1283",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tristram Hunt",
     title: "Remunerated employment, office, profession etc",
     description:
       "Salary as lecturer at Queen Mary, University of London, Mile End Road, London E1 4NS:",
@@ -2776,7 +2776,7 @@ export const poiData = [
   },
   {
     id: "1285",
-    name: "Remunerated employment, office, profession etc",
+    name: "Huw Irranca-Davies",
     title: "Remunerated employment, office, profession etc",
     description: "Surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",
     latitude: "51.496816",
@@ -2786,7 +2786,7 @@ export const poiData = [
   },
   {
     id: "1286",
-    name: "Remunerated employment, office, profession etc",
+    name: "Huw Irranca-Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -2797,7 +2797,7 @@ export const poiData = [
   },
   {
     id: "1288",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stewart Jackson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Opinion surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",
@@ -2808,7 +2808,7 @@ export const poiData = [
   },
   {
     id: "1289",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stewart Jackson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Lecturer in British Government and Politics at Richmond University (the American International University in London), Queen’s Road Richmond-upon-Thames TW10 6JP.",
@@ -2819,7 +2819,7 @@ export const poiData = [
   },
   {
     id: "1294",
-    name: "Remunerated employment, office, profession etc",
+    name: "Bernard Jenkin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Aros Corporation Limited, 112 Eversleigh Road, London SW11 5XB, (formerly Envoy Media, 11 Grosvenor Crescent, London SW1X 7EE), for regular column in Diplomat Magazine.  Two hours work per month:",
@@ -2830,7 +2830,7 @@ export const poiData = [
   },
   {
     id: "1301",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kevan Jones",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -2840,7 +2840,7 @@ export const poiData = [
   },
   {
     id: "1303",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tessa Jowell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from BSkyB, Grant Way, Isleworth, Middlesex TW7 5QD for press previews:",
@@ -2849,7 +2849,7 @@ export const poiData = [
   },
   {
     id: "1309",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tessa Jowell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Received from the Corporate Research Forum, One Heddon Street, London W1B 4BD, (two thirds of the agreed sum) for chairing and moderating the Forum's annual conference held in Berlin on 29 September to 1 October 2014.",
@@ -2858,7 +2858,7 @@ export const poiData = [
   },
   {
     id: "1316",
-    name: "Overseas visits",
+    name: "Tessa Jowell",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Magic Bus UK; (2) Magic Bus India; (3) British AirwaysAddress of donor: (1) 32-36 Loman St, London SE1 0EH; (2) Todi Estate Rn 5, A Wing,  2nd  floor, Sun Mills Compound Lower Parel (W), Mumbai, India 400 013; (3) Community Investment, Australasia House, Waterside, PO Box 365, Harmondsworth, UB7 0GBAmount of donation (or estimate of the probable value): (1) accommodation in Bangalore estimated at £120 and airline taxes of  £322.35; £442.35 in total; (2) accommodation in New Delhi estimated at £335; (3) Return flights from London to Delhi and Delhi to Bangalore with a total value estimated at £2,120Destination of visit: New Delhi and BangaloreDate of visit: 9 to 15 February 2014Purpose of visit: To participate in a conference as part of my work for Magic Bus, and to volunteer on a Magic Bus project.",
@@ -2867,7 +2867,7 @@ export const poiData = [
   },
   {
     id: "1319",
-    name: "Remunerated employment, office, profession etc",
+    name: "Charles Kennedy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -2878,7 +2878,7 @@ export const poiData = [
   },
   {
     id: "1320",
-    name: "Remunerated employment, office, profession etc",
+    name: "Sadiq Khan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for opinion research surveys:",
@@ -2889,7 +2889,7 @@ export const poiData = [
   },
   {
     id: "1329",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Lammy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -2900,7 +2900,7 @@ export const poiData = [
   },
   {
     id: "1334",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Lammy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee from Cumberlege Connections Ltd, Snells Cottage, The Green, Newick, Lewes BN8 4LA:",
@@ -2911,7 +2911,7 @@ export const poiData = [
   },
   {
     id: "1340",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Lazarowicz",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in opinion surveys.  Payments used towards cost of my parliamentary newsletter.",
@@ -2922,7 +2922,7 @@ export const poiData = [
   },
   {
     id: "1346",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jessica Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Messrs Knowles Benning & Co, 2 George Street West, Luton, Bedfordshire, LU1 2BX.",
@@ -2933,7 +2933,7 @@ export const poiData = [
   },
   {
     id: "1349",
-    name: "Remunerated employment, office, profession etc",
+    name: "Phillip Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received in my capacity as a freelance GP:Payments from Bracknell Urgent Care Centre, c/o One Medicare Limited, The Business Centre, Banktop Farm, Black Hill Road, Leeds LS21 1PY:",
@@ -2944,7 +2944,7 @@ export const poiData = [
   },
   {
     id: "1350",
-    name: "Remunerated employment, office, profession etc",
+    name: "Phillip Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Express Newspapers, The Northern & Shell Building, 10 Lower Thames Street, London EC3R 6EN:",
@@ -2955,7 +2955,7 @@ export const poiData = [
   },
   {
     id: "1355",
-    name: "Remunerated employment, office, profession etc",
+    name: "Emma Lewell-Buck",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -2966,7 +2966,7 @@ export const poiData = [
   },
   {
     id: "1363",
-    name: "Remunerated directorships",
+    name: "Peter Lilley",
     title: "Remunerated directorships",
     description:
       "IDOX plc (formerly i-documentsystems group plc) (non-executive); information advisory services, document management software and systems.  Address:  Chancery Exchange, 10 Furnival St, London EC4A 1AB:",
@@ -2975,7 +2975,7 @@ export const poiData = [
   },
   {
     id: "1375",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Mann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from ComRes, Four Millbank, London SW1P 3JA, following the completion of surveys. Payment made to Bassetlaw CLP:",
@@ -2984,7 +2984,7 @@ export const poiData = [
   },
   {
     id: "1377",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Mann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Whitefox, @Work Hubs, 105a Euston Street, London NW1 2EW, on commission by the Pears Foundation, Clive House, 2 Old Brewery Mews, London NW3 1PZ, for preparation of a manuscript for a book.",
@@ -2993,7 +2993,7 @@ export const poiData = [
   },
   {
     id: "1379",
-    name: "Overseas visits",
+    name: "John Mann",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Coventry Building Society; (2) British Outdoor Industries Association; (3) BerghausAddress of donor: (1) Binley Business Park, Harry Weston Road, Coventry CV3 2TQ; (2) 12 Church Street, Windermere, Cumbria, LA23 1AQ; (3) 12 Colima Avenue, Sunderland Enterprise Park, Sunderland. SR5 3XBAmount of donation (or estimate of the probable value):  (1) £2,500    (2) £200     (3) £350Destination of visit: Iliniza, Cayembe, Cotopaxi in Ecuador.Date of visit: 28 May- 9 June 2014Purpose of visit: to launch the Royal British Legion Battle Back recovery centre expeditions with injured soldiers.",
@@ -3002,7 +3002,7 @@ export const poiData = [
   },
   {
     id: "1387",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael McCann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -3013,7 +3013,7 @@ export const poiData = [
   },
   {
     id: "1388",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael McCann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from You Gov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -3024,7 +3024,7 @@ export const poiData = [
   },
   {
     id: "1394",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jason McCartney",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -3034,7 +3034,7 @@ export const poiData = [
   },
   {
     id: "1395",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jason McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov, 50 Featherstone Street, London EC1Y 8RT, for opinion survey:",
@@ -3045,7 +3045,7 @@ export const poiData = [
   },
   {
     id: "1398",
-    name: "Remunerated employment, office, profession etc",
+    name: "Karl McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -3056,7 +3056,7 @@ export const poiData = [
   },
   {
     id: "1399",
-    name: "Remunerated employment, office, profession etc",
+    name: "Karl McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for opinion surveys:",
@@ -3067,7 +3067,7 @@ export const poiData = [
   },
   {
     id: "1404",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alison McGovern",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -3078,7 +3078,7 @@ export const poiData = [
   },
   {
     id: "1414",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nigel Mills",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from CommunicateResearch Ltd, Coveham House, Downside Bridge Road, Cobham, Surrey KT11 3EP for opinion research:",
@@ -3089,7 +3089,7 @@ export const poiData = [
   },
   {
     id: "1415",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nigel Mills",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys:",
@@ -3100,7 +3100,7 @@ export const poiData = [
   },
   {
     id: "1418",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Mitchell",
     title: "Remunerated employment, office, profession etc",
     description:
       "The Foundation, 82 Dean St, London W1D 3SP; growth and innovation consultancy. Member of the Advisory Board. Remuneration: £3,000 a day, with an expected time commitment of 6 days a year from February 2013.",
@@ -3111,7 +3111,7 @@ export const poiData = [
   },
   {
     id: "1419",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Mitchell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Montrose Associates, 97, Jermyn Street, London SW1Y 6JE; strategic consultancy. Senior Adviser. Remuneration: £3,000 a day, with an expected time commitment of one day a month from March 2013.",
@@ -3122,7 +3122,7 @@ export const poiData = [
   },
   {
     id: "1422",
-    name: "Remunerated employment, office, profession etc",
+    name: "Madeleine Moon",
     title: "Remunerated employment, office, profession etc",
     description: "Fees for surveys for ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -3132,7 +3132,7 @@ export const poiData = [
   },
   {
     id: "1437",
-    name: "Remunerated employment, office, profession etc",
+    name: "Greg Mulholland",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes for participation in parliamentary panel surveys.  Address: Four Millbank, London SW1P 3JA:",
@@ -3143,7 +3143,7 @@ export const poiData = [
   },
   {
     id: "1441",
-    name: "Remunerated employment, office, profession etc",
+    name: "Meg Munn",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from Comres, 4 Millbank London SW1P 3SE, for completing surveys:",
@@ -3154,7 +3154,7 @@ export const poiData = [
   },
   {
     id: "1445",
-    name: "Overseas visits",
+    name: "Meg Munn",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Council of Christians and Jews (2) the Yad VashemAddress of donor: (1) 21 Godliman Street, London EC4V 5BD (2) P.O.B. 3477, Jerusalem 9103401, IsraelAmount of donation (or estimate of the probable value): (1) flights, accommodation and subsistence, £1,150 (2) cost of course and associated materials, and transport to Yad Vashem, £450; total £1,600Destination of visit: Jerusalem, IsraelDate of visit: 12-14 November 2014Purpose of visit: to attend a series of seminars at the Yad Vashem Institute",
@@ -3165,7 +3165,7 @@ export const poiData = [
   },
   {
     id: "1448",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Murphy",
     title: "Remunerated employment, office, profession etc",
     description: "Payments received from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -3175,7 +3175,7 @@ export const poiData = [
   },
   {
     id: "1464",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jesse Norman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Telegraph Media Group, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -3186,7 +3186,7 @@ export const poiData = [
   },
   {
     id: "1465",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jesse Norman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received via Peters Fraser & Dunlop, literary agency, Drury House, 34-43 Russell Street, London WC2B 5HA:",
@@ -3197,7 +3197,7 @@ export const poiData = [
   },
   {
     id: "1471",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Nuttall",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -3207,7 +3207,7 @@ export const poiData = [
   },
   {
     id: "1492",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Percy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -3218,7 +3218,7 @@ export const poiData = [
   },
   {
     id: "1503",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stephen Phillips",
     title: "Remunerated employment, office, profession etc",
     description:
       "Crown Court Recorder. Payments received from Ministry of Justice, 102 Petty France, London SW1H 9AJ:",
@@ -3229,7 +3229,7 @@ export const poiData = [
   },
   {
     id: "1507",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Times. Address: 1 Virginia Street, London E98 1XY:",
@@ -3240,7 +3240,7 @@ export const poiData = [
   },
   {
     id: "1509",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Daily Mail and Mail on Sunday, Northcliffe House, 2 Derry Street, London W8 5TT:",
@@ -3251,7 +3251,7 @@ export const poiData = [
   },
   {
     id: "1510",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Sunday Times, 3 Thomas More Square, London E98 1XY, for articles:",
@@ -3262,7 +3262,7 @@ export const poiData = [
   },
   {
     id: "1515",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Hon vice-chairman (from June 2009), Construction Industry Council, 26 Store Street, London, WC1E 7BT.  CIC is the representative body for professionals working in the construction industry.  Work involves assisting the chairman and chief executive in the oversight and strategic direction of CIC, attendance at board meetings and other CIC activities",
@@ -3273,7 +3273,7 @@ export const poiData = [
   },
   {
     id: "1516",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Chairman, NHBC Foundation, 4th floor, 120 Cannon Street, London, EC4N 6AS. The NHBC Foundation promotes research to support the development of sustainable housing. Work involves oversight of the Foundation’s research programme and dissemination of good practice, including chairing meetings of the advisory board.",
@@ -3284,7 +3284,7 @@ export const poiData = [
   },
   {
     id: "1517",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Hometrack (non-executive), 6th Floor, the Chambers, Chelsea Harbour, London, SW10 0XF; an organisation providing valuation and related services in the housing market.  Work involves advising the company on relevant housing matters and attendance at board meetings.",
@@ -3295,7 +3295,7 @@ export const poiData = [
   },
   {
     id: "1518",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "President of the Constructionarium, Riverside House, 4 Meadows Business Park, Station Approach, Blackwater, Camberley, Surrey, GU17 9AB.  The project promotes practical site-based development opportunities for students undertaking Built Environment degree courses.  Work involves advising the organisation on the development of its construction training activities.",
@@ -3306,7 +3306,7 @@ export const poiData = [
   },
   {
     id: "1522",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Reckless",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for articles written for Associated Newspapers Ltd, 2 Derry Street, London W8 5TT:",
@@ -3317,7 +3317,7 @@ export const poiData = [
   },
   {
     id: "1524",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Redwood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Visiting Professorship to Middlesex University Business School, lecturing on financial subjects related to my previous career.  Address: The Burroughs, London, NW4 4BT.",
@@ -3328,7 +3328,7 @@ export const poiData = [
   },
   {
     id: "1526",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Redwood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Guardian News & Media Group, Kings Place, 90 York Way, London N1 9GU:",
@@ -3339,7 +3339,7 @@ export const poiData = [
   },
   {
     id: "1532",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jonathan Reynolds",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for market research:",
@@ -3350,7 +3350,7 @@ export const poiData = [
   },
   {
     id: "1533",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jonathan Reynolds",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for market research:",
@@ -3361,7 +3361,7 @@ export const poiData = [
   },
   {
     id: "1540",
-    name: "Remunerated employment, office, profession etc",
+    name: "Malcolm Rifkind",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from London Evening Standard, 2 Derry Street, London W8 5TT:",
@@ -3372,7 +3372,7 @@ export const poiData = [
   },
   {
     id: "1552",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Ruane",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -3383,7 +3383,7 @@ export const poiData = [
   },
   {
     id: "1557",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Ruffley",
     title: "Remunerated employment, office, profession etc",
     description: "Fees from YouGov, 50 Featherstone Street, London, EC1Y 8RT:",
     latitude: "51.52485",
@@ -3393,7 +3393,7 @@ export const poiData = [
   },
   {
     id: "1559",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Ruffley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, 4 Millbank, London, SW1P 3JA for completing surveys:",
@@ -3404,7 +3404,7 @@ export const poiData = [
   },
   {
     id: "1561",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adrian Sanders",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing opinion polls:",
@@ -3415,7 +3415,7 @@ export const poiData = [
   },
   {
     id: "1566",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Selous",
     title: "Remunerated employment, office, profession etc",
     description:
       "ComRes 4 Millbank London SW1P 3JA:Received £75 for taking part in the January 2014 Parliamentary Panel Survey. Hours: 25 mins. (Registered 11 March 2014)",
@@ -3426,7 +3426,7 @@ export const poiData = [
   },
   {
     id: "1567",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Selous",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT:",
     latitude: "51.52485",
@@ -3436,7 +3436,7 @@ export const poiData = [
   },
   {
     id: "1573",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Sheridan",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA.",
     latitude: "51.496816",
@@ -3446,7 +3446,7 @@ export const poiData = [
   },
   {
     id: "1574",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Sheridan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov plc, 50 Featherstone Street, London EC1Y 8RT:",
@@ -3457,7 +3457,7 @@ export const poiData = [
   },
   {
     id: "1581",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Skidmore",
     title: "Remunerated employment, office, profession etc",
     description:
       "Author.Payments via Jonathan Pegg Literary Agency, 32 Batoum Gardens, London W6 7QD, from The Orion Publishing Group, Orion House, 5 Upper Saint Martin's Lane, London WC2H 9EA:",
@@ -3468,7 +3468,7 @@ export const poiData = [
   },
   {
     id: "1585",
-    name: "Remunerated employment, office, profession etc",
+    name: "Henry Smith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for completion of surveys:",
@@ -3479,7 +3479,7 @@ export const poiData = [
   },
   {
     id: "1586",
-    name: "Remunerated employment, office, profession etc",
+    name: "Henry Smith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -3490,7 +3490,7 @@ export const poiData = [
   },
   {
     id: "1589",
-    name: "Remunerated directorships",
+    name: "Nicholas Soames",
     title: "Remunerated directorships",
     description:
       "AEGIS Defence Services Limited (non-executive).  Address: 84 Eccleston Square, London SW1V 1PX. Attend meetings in pursuit of duties as non-executive director and (since 1 January 2010) non-executive chairman.",
@@ -3501,7 +3501,7 @@ export const poiData = [
   },
   {
     id: "1595",
-    name: "Remunerated employment, office, profession etc",
+    name: "Caroline Spelman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Civil Service Learning, Quadrant Court, 49 Calthorpe Road, Edgbaston, Birmingham B15 1TH, for talks for the Civil Service Fast Stream on Understanding Government:",
@@ -3512,7 +3512,7 @@ export const poiData = [
   },
   {
     id: "1601",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments of from Telegraph Media Group Ltd, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -3523,7 +3523,7 @@ export const poiData = [
   },
   {
     id: "1602",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News UK & Ireland Limited, 3 Thomas More Square, London E98 1XY:",
@@ -3534,7 +3534,7 @@ export const poiData = [
   },
   {
     id: "1603",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Red Bee Media, Ealing Cross, 85 Uxbridge Road, Ealing, London W5 5TH:",
@@ -3545,7 +3545,7 @@ export const poiData = [
   },
   {
     id: "1604",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Financial Times Ltd, Number One Southwark Bridge, London SE1 9HL:",
@@ -3556,7 +3556,7 @@ export const poiData = [
   },
   {
     id: "1606",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from Trinity College Cambridge, Cambridge, CB2 1TQ:",
     latitude: "52.206938",
@@ -3566,7 +3566,7 @@ export const poiData = [
   },
   {
     id: "1610",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jack Straw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Associated Newspapers, 2 Derry Street, London W8 5TT:",
@@ -3577,7 +3577,7 @@ export const poiData = [
   },
   {
     id: "1623",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Stunell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing opinion surveys:",
@@ -3586,7 +3586,7 @@ export const poiData = [
   },
   {
     id: "1631",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Tami",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Populus, Northburgh House, 10, Northburgh Street, London, EC1V 0AT, for surveys:",
@@ -3597,7 +3597,7 @@ export const poiData = [
   },
   {
     id: "1640",
-    name: "Remunerated directorships",
+    name: "John Thurso",
     title: "Remunerated directorships",
     description:
       "Director of International Wine and Spirit Competition Ltd, Building 17, Dunsfold Park, Stovolds Hill, Cranleigh, Surrey, GU6 8TB; organisers annual wine and spirit competition.",
@@ -3606,7 +3606,7 @@ export const poiData = [
   },
   {
     id: "1653",
-    name: "Remunerated employment, office, profession etc",
+    name: "Joan Walley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participating in opinion research panel:",
@@ -3617,7 +3617,7 @@ export const poiData = [
   },
   {
     id: "1654",
-    name: "Remunerated employment, office, profession etc",
+    name: "Joan Walley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from Populus Ltd, 10 Northborough Street, London EC1V 0AT, for participating in opinion research panel:",
@@ -3628,7 +3628,7 @@ export const poiData = [
   },
   {
     id: "1661",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tom Watson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing opinion surveys:",
@@ -3639,7 +3639,7 @@ export const poiData = [
   },
   {
     id: "1664",
-    name: "Remunerated employment, office, profession etc",
+    name: "Heather Wheeler",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.  Payments donated to South Derbyshire Conservative Association:",
@@ -3650,7 +3650,7 @@ export const poiData = [
   },
   {
     id: "1667",
-    name: "Remunerated employment, office, profession etc",
+    name: "Heather Wheeler",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for Populus Ltd, Northburgh House, 10 Northburgh Street, London EC1V 0AT: Payments donated to South Derbyshire Conservative Association:",
@@ -3661,7 +3661,7 @@ export const poiData = [
   },
   {
     id: "1671",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Whittingdale",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in surveys:",
@@ -3672,7 +3672,7 @@ export const poiData = [
   },
   {
     id: "1672",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Whittingdale",
     title: "Remunerated employment, office, profession etc",
     description:
       "Cultural and Political Adviser on the Museum of the Jewish Soldier in World War II project in Israel; contract for 12 months. Payments are made by Curzon PR, 28 Grosvenor Street, London, W1K 4QR.",
@@ -3683,7 +3683,7 @@ export const poiData = [
   },
   {
     id: "1686",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tim Yeo",
     title: "Remunerated employment, office, profession etc",
     description:
       "Adviser to Meade Hall & Associates, 1 Meade Mews, Causton Street, London SW1P 4EG, a strategic communications consultancy. I advise on matters relating to the construction of new nuclear power stations in Europe.",
@@ -3694,7 +3694,7 @@ export const poiData = [
   },
   {
     id: "1689",
-    name: "Employment and earnings",
+    name: "Liam Byrne",
     title: "Employment and earnings",
     description:
       "Payments for teaching received from Oxford University Said Business School, University of Oxford, OX1 5NY:Received £625 for teaching on 4 July 2013.  Hours: 2 hrs. (Registered 01 December 2014)Received £625 for teaching on 3 June 2014.  Hours: 2 hrs. (Registered 01 December 2014)Received £625 for teaching on 13 August 2014.  Hours: 2 hrs. (Registered 01 December 2014)Received £625 for teaching on 17 September 2014.  Hours: 2 hrs. (Registered 01 December 2014)Received £625 for teaching on 5 November 2014.  Hours: 2 hrs. (Registered 01 December 2014)Received £1,250 for teaching on 23 April 2014.  Hours: 4 hrs. (Registered 06 March 2015)",
@@ -3705,7 +3705,7 @@ export const poiData = [
   },
   {
     id: "1690",
-    name: "Employment and earnings",
+    name: "Liam Byrne",
     title: "Employment and earnings",
     description:
       "Payments from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB, for licencing fees:Received £114 for 2012-13. Hours: no additional hours. (Registered 06 March 2015)Received £130 for 2013-14. Hours: no additional hours. (Registered 06 March 2015)Received £204.53, total to date for 2014-15. Hours: no additional hours. (Registered 06 March 2015)Payments from Head of Zeus, Clerkenwell House, 45-47 Clerkenwell Green, London EC1R 0HT, received via Capel and Land, 29 Wardour St, London W1D 6PS:18 August 2015, advance of £1,804 for a book. Hours: approx. 20 hrs. (Registered 25 September 2015)",
@@ -3716,7 +3716,7 @@ export const poiData = [
   },
   {
     id: "1691",
-    name: "Employment and earnings",
+    name: "Alex Chalk",
     title: "Employment and earnings",
     description:
       "15 and 18 May 2015, received £552.68 from Legal Aid Agency, 16 King Street, Nottingham NG1 2AS for legal services between 30 July 2010 and 21 March 2013.  (Registered 21 May 2015)Payments from Crown Prosecution Service, Rose Court, 2 Southwark Bridge Road, London SE1 9HD, for legal services:9 June 2015, received payment of £3,776.69  for legal services between 17 July 2014 and 25 March 2015. (Registered 08 July 2015)21 July 2015, received £55.80. Hours: 1 hr. (Registered 28 July 2015)29 July 2015, received £136.20. Hours: 2 hrs. (Registered 03 August 2015)4 August 2015, received £1,555.72. Hours: 15 hrs. (Registered 10 September 2015)Payments from CPS Homicide Unit, 1 Drummond Gate, Pimlico, London SW1V 2QZ, for legal services:8 May 2015, payment of £55.80. (Registered 08 July 2015)21 July 2015, received £58.60. Hours: 1 hr. (Registered 28 July 2015)2 September 2015, received £55.80. Hours: 1 hr. (Registered 10 September 2015)4 September 2015, received £55.80. Hours: 1 hr. (Registered 14 September 2015)18 May 2015, received payment of £507.22 from B.H. Mohammed, 306 Stratford Road, Sparkhill, Birmingham B11 1AA, for legal services between 30 July 2010 and 8 February 2012. (Registered 08 July 2015)Payments from the Crown Prosecution Service, 4-5 South Parade, Wakefield WF1 1LR, for legal services:9 June 2015, received £3,901.49  for legal services provided prior to my election. (Registered 14 July 2015)17 July 2015, received £114.40. Hours: 1 hr. (Registered 28 July 2015)31 July 2015, received £1,555.72. Hours: 20 hrs. (Registered 17 August 2015)26 October 2015, received £40.20. Hours: 1 hr. (Registered 29 October 2015)Payments from CPS Complex Casework, 1 Drummond Gate, London SW1V 2QZ, for legal services:16 July 2015, payment of £858 for legal services provided prior to my election. (Registered 20 July 2015)22 October 2015, payment of £55.80. Hours: 1 hr. (Registered 29 October 2015)28 August 2015, received £3,600 for legal services provided. Private instructions. Hours: 5 hrs. (Registered 10 September 2015)",
@@ -3727,7 +3727,7 @@ export const poiData = [
   },
   {
     id: "1692",
-    name: "Employment and earnings",
+    name: "Alex Chalk",
     title: "Employment and earnings",
     description:
       "Payments from the Serious Fraud Office, 2-4 Cockspur St, London SW1Y 5BS, for legal services:21 October 2015, received £189. Hours: 2 hrs. (Registered 29 October 2015)28 October 2015, received £1,011. Hours: 8 hrs. (Registered 03 November 2015)",
@@ -3738,7 +3738,7 @@ export const poiData = [
   },
   {
     id: "1693",
-    name: "Employment and earnings",
+    name: "Jeremy Corbyn",
     title: "Employment and earnings",
     description:
       "Payments for Working with Parliament lectures arranged by Paul Grant, [private address]:Received £150 for lecture on 16 December 2014. Hours: 1 hr. (Registered 16 March 2015)Received £150 for lecture on 20 January 2015. Hours: 1 hr. (Registered 16 March 2015)Received £150 for lecture on 10 March 2015. Hours: 1 hr. (Registered 16 March 2015)11 June 2015, received £150. Hours: 1 hr. (Registered 07 August 2015)23 June 2015, received £150. Hours: 1 hr. (Registered 07 August 2015)14 July 2015, received £150. Hours: 1 hr. (Registered 07 August 2015)Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:9 June 2014, £75 received for April 2014 survey. Hours: 1 hr. (Registered 26 March 2015)5 August 2014, £75 received for May/Jun 2014 survey. Hours: 90 mins. (Registered 26 March 2015)£75 received for Jan/Feb survey. Hours: 90 mins. (Registered 26 March 2015)",
@@ -3749,7 +3749,7 @@ export const poiData = [
   },
   {
     id: "1694",
-    name: "Employment and earnings",
+    name: "Jeremy Corbyn",
     title: "Employment and earnings",
     description:
       "Payments for FCO course lectures (Understanding Government) from CSL, PO Box 202, Darlington DL1 9HB:Received £150 for lecture on 15 May 2014. Hours: 1hr. (Registered 16 March 2015)Received £150 for lecture on 12 June 2014. Hours: 1hr. (Registered 16 March 2015)Received £150 for lecture on 19 June 2014. Hours: 1hr. (Registered 16 March 2015)Received £150 for lecture on 3 July 2014. Hours: 1hr. (Registered 16 March 2015)6 August 2015, received £600 for lectures given on 4 and 18 June 2015 and 9 and 16 July 2015. Hours: 1 hr each; 4 hrs in total. (Registered 07 August 2015)10 August 2015, received £150 for lecture on 11 June 2015. Hours: 1 hr. (Registered 10 August 2015)9 June 2014, received payment of £80 from YouGov, 50 Featherstone Street, London, EC1Y 8RT, for online survey. Hours: 1 hr. (Registered 26 March 2015)",
@@ -3760,7 +3760,7 @@ export const poiData = [
   },
   {
     id: "1697",
-    name: "Employment and earnings",
+    name: "Suella Fernandes",
     title: "Employment and earnings",
     description:
       "I received the following payments for legal services provided to the Treasury Solicitors, 1 Kemble Street, London WC2B 4TS:Payment of £350 received on 12 May 2015 for legal services provided on 29 January 2015. Hours: no hours since the Election. (Registered 5 June 2015; updated 17 September 2015)Payment of £350 received on 12 May 2015 for legal services provided on 16 March 2015. Hours: no hours since the Election. (Registered 5 June 2015; updated 17 September 2015)Payment of £480 received on 21 May 2015 for legal services provided on 2 April 2015. Hours: no hours since the Election. (Registered 5 June 2015; updated 17 September 2015)Payment of £350 received on 26 May 2015 for legal services provided on 5 December 2014. Hours: no hours since the Election. (Registered 5 June 2015; updated 17 September 2015)Payment of £350 received on 2 June 2015 for legal services provided on 18 December 2014. Hours: no hours since the Election. (Registered 5 June 2015; updated 17 September 2015)Fees of £350 received on 5 June 2015 for legal services provided on 21 November 2014. Hours: no hours since the Election. (Registered 1 July 2015; updated 17 September 2015)Fees of £350 received on 30 June 2015 for legal services provided on 27 January 2015. Hours: no hours since the Election. (Registered 1 July 2015; updated 17 September 2015)Fees of £350 received on 6 September 2015 for legal services provided on 12 November 2014. Hours: no hours since the Election. (Registered 17 September 2015)",
@@ -3769,7 +3769,7 @@ export const poiData = [
   },
   {
     id: "1698",
-    name: "Employment and earnings",
+    name: "Suella Fernandes",
     title: "Employment and earnings",
     description:
       "Payments received from Cottams Solicitors Ltd, 1102 Stafford Road, Hall Green, Birmingham B28 8AD:2 June 2015, received payment of £833.34  for legal services provided on 12 September 2011. Hours: no hours since the Election. (Registered 5 June 2015; updated 17 September 2015)5 June 2015, received fees of £783.33 for legal services provided on 12 September 2011. Hours: no hours since the Election. (Registered 1 July 2015; updated 17 September 2015)4 June 2015, received fees of £500 from Scott Rees Solicitors, Centaur House, Gardiners Place, Skelmersdale, Lancashire, WN8 9SP, for legal services provided on 23 October 2014. Hours: no hours since the Election. (Registered 1 July 2015; updated 17 September 2015)Payments received from Bhatia Best (Nottingham) Solicitors, 12 Carrington Street, Nottingham, NG1 7FF:26 June 2015, received payment of £400 for legal services provided on 9 October 2014. Hours: no hours since the Election. (Registered 1 July 2015; updated 17 September 2015)24 August 2015, received payment of £531.26 for legal services provided on 1 May 2014. Hours: no hours since the Election.  (Registered 17 September 2015)",
@@ -3778,7 +3778,7 @@ export const poiData = [
   },
   {
     id: "1700",
-    name: "Employment and earnings",
+    name: "Dominic Grieve",
     title: "Employment and earnings",
     description:
       "22 June 2015,  payment of £200 from John Wiley & Sons Ltd, The Atrium, Southern Gate, Chichester PO19 8SQ, for publication  (in the Political Quarterly Review) of a lecture given at University College London. Hours: no additional hours. (Registered 22 July 2015)",
@@ -3789,7 +3789,7 @@ export const poiData = [
   },
   {
     id: "1701",
-    name: "Employment and earnings",
+    name: "Scott Mann",
     title: "Employment and earnings",
     description:
       "I received the following payments for my role as a Councillor for Cornwall Council, New County Hall, Truro, TR1 3AY. (Registered 04 June 2015)1 June 2014, received £1,020.75 for services performed during the month of May 2015. These services were provided to Council Works. Hours: 20 hrs. (Registered 04 June 2015)",
@@ -3800,7 +3800,7 @@ export const poiData = [
   },
   {
     id: "1702",
-    name: "Employment and earnings",
+    name: "Scott Mann",
     title: "Employment and earnings",
     description:
       "I received the following payments for my role as a Royal Mail Postman, Royal Mail, The Platt, Wadebridge, Cornwall, PL27 7AA. (Registered 04 June 2015)8 June 2015, received £255 for services performed during the week commencing 4 May 2015. Hours: 48 hrs (Registered 04 June 2015)15 May 2015, received £265 for services performed during the week commencing 4 May 2015. Hours: no hours since the Election. (Registered 04 June 2015)",
@@ -3811,7 +3811,7 @@ export const poiData = [
   },
   {
     id: "1703",
-    name: "Employment and earnings",
+    name: "Nicholas Soames",
     title: "Employment and earnings",
     description:
       "AEGIS Defence Services Limited (non-executive).  Address: 84 Eccleston Square, London SW1V 1PX. Attend meetings in pursuit of duties as non-executive director and (since 1 January 2010) non-executive chairman. Until further notice, I receive a monthly salary of £9,166.67 for an expected commitment of 15 hours. (Updated 13 July 2015)Received monthly salary for November 2014 of £8,755 gross. Hours: 15 hrs. (Registered 06 January 2015)Received monthly salary for December 2014 of £8,755 gross. Hours: 15 hrs. (Registered 06 January 2015)Received monthly salary for January 2015 of £8,755 gross. Hours: 15 hrs. (Registered 02 February 2015)Received monthly salary for February 2015 of £8,755 gross. Hours: 15 hrs. (Registered 17 March 2015)Received monthly salary for March 2015 of £23,755 gross. This includes an annual bonus of £15,000. Hours: 15 hrs. (Registered 26 May 2015)Received monthly salary for April 2015 of £9,166.67 gross. Hours: 15 hrs. (Registered 26 May 2015)27 May 2015, received monthly salary for May 2015 of £9,166.67 gross. Hours: 15 hrs. (Registered 02 June 2015)Non-executive director of Aggregated Micro Power plc; renewable energy investment business. Address: Hasilwood House, 62 Bishopsgate, London EC2N 4AW. Until further notice, I receive £3,750 per quarter for an expected commitment of 15 hours. (Updated 13 July 2015)12 January 2015, received £3,750 gross for the period 1 October-31 December 2014. Hours: 15 hrs. (Registered 02 February 2015)27 March 2015, received £3,750 gross for the period 1 January – 31 March 2015. Hours: 15 hrs. (Registered 27 March 2015)30 June 2015, received £3,750 gross for the period 1 April to 30 June 2015. Hours: 15 hrs. (Registered 07 July 2015)Senior Adviser, MMC Group; insurance and related financial services. Address: Marsh Ltd, Tower Place, London, EC3R 5BU. Work includes attending meetings and advising on business development. Until further notice, I receive a monthly salary of £7,951.25 for an expected commitment of 15 hours. (Updated 13 July 2015)Received monthly salary for November 2014 of £7,962.93 gross (Updated 24 March 2015).  Hours: 15 hrs. (Registered 06 January 2015)Received monthly salary for December 2014 of £7,951.25 gross.  Hours: 15 hrs. (Registered 06 January 2015)Received monthly salary for January 2015 of £7,951.25 gross.  Hours: 15 hrs. (Registered 06 February 2015)Received monthly salary for February 2015 of £12,962.93 gross.  Hours: 15 hrs. (Registered 24 March 2015)Received monthly salary for March 2015 of £7,951.25 gross.  Hours: 15 hrs. (Registered 26 May 2015)Received monthly salary for April 2015 of £7,951.25 gross.  Hours: 15 hrs. (Registered 26 May 2015)27 May 2015, received salary for May 2015 of £7,962.93. Hours: 15 hrs.  (Registered 07 July 2015)26 June 2015, received salary for June 2015 of £7,951.25. Hours: 15 hrs. (Registered 07 July 2015)",
@@ -3822,7 +3822,7 @@ export const poiData = [
   },
   {
     id: "1705",
-    name: "Employment and earnings",
+    name: "Henry Bellingham",
     title: "Employment and earnings",
     description:
       "Non-executive director of Developing Markets Associates Ltd, 150 Tooley Street, London SE1 2TU, a global consultancy and investment conference organiser. (Registered 17 May 2013)Non-Executive Chairman of Pontus Marine Limited, 33 St. James's Square, London SW1Y 4JS, a UK based company with commercial fishing interests in the Gulf of Aden and the Middle East. For carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance, I receive £1,955 per month until further notice. Hours: 2-4 hrs per month. (Registered 12 June 2013; updated 17 July 2015)Received £1,955 gross (£1,408 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 4 hrs. (Registered 02 December 2014)Received £1,955 gross (£1,019 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 3 hrs. (Registered 09 July 2015)",
@@ -3831,7 +3831,7 @@ export const poiData = [
   },
   {
     id: "1706",
-    name: "Employment and earnings",
+    name: "Henry Bellingham",
     title: "Employment and earnings",
     description:
       "Non-executive Chairman of Pathfinder Minerals PLC, Becket House, 36 Old Jewry, London EC2R 8DD, an AIM listed mining company. For carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance, I receive £4,000 per month until further notice. Hours:  4-7 hrs per month. (Registered 17 February 2014; updated 17 July 2015)Received £4,000 gross (£2,850 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 5 hrs. (Registered 02 December 2014)Received £4,000 gross (£2,850 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 7 hrs. (Registered 07 January 2015)Received £4,000 gross (£2,850 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 7 hrs. (Registered 03 February 2015)Received £4,000 gross (£2,850 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 3 hrs. (Registered 04 March 2015)Received £4,000 gross (£2,047 net) for carrying out duties as Non-Executive Chairman and giving advice on strategy and corporate governance. Hours: 6 hrs. (Registered 09 July 2015)Former member of Lloyds (resigned 1999.  Reinsured into Equitas.)",
@@ -3840,7 +3840,7 @@ export const poiData = [
   },
   {
     id: "1709",
-    name: "Employment and earnings",
+    name: "David Davies",
     title: "Employment and earnings",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA:£75.  Hours: 1 hr. (Registered 09 December 2014)£75.  Hours: 1 hr. (Registered 06 March 2015)£75.  Hours: 1 hr. (Registered 14 May 2015)16 April 2015, received £50. Hours: 1 hr. (Registered 30 October 2015)22 April 2015, received £75. Hours: 1 hr. (Registered 30 October 2015)1 July 2015, received £75. Hours: 1 hr. (Registered 30 October 2015)21 August 2015, received £75. Hours: 1 hr. (Registered 30 October 2015)5 October 2015, received £75. Hours: 1 hr. (Registered 30 October 2015)Payments from Capita Business Services, 2nd floor, 17-19 Rochester Row, London SW1P 1LA:Payment of £150 for delivering one lecture. Hours: 1 hr. (Registered 09 December 2014)20 August 2015, received £150 for delivering one lecture. Hours: 1 hr. (Registered 01 September 2015)Payments from Ipsos MORI, 79-81 Borough Road, London SE1 1FY:26 August 2015, £200 received for survey interview. Hours: 1 hr. (Registered 10 September 2015)",
@@ -3849,7 +3849,7 @@ export const poiData = [
   },
   {
     id: "1710",
-    name: "Employment and earnings",
+    name: "David Davies",
     title: "Employment and earnings",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT:£100 for taking part in a survey.  Hours: 45 mins. (Registered 14 May 2015)",
@@ -3858,7 +3858,7 @@ export const poiData = [
   },
   {
     id: "1711",
-    name: "Employment and earnings",
+    name: "Simon Hart",
     title: "Employment and earnings",
     description:
       "Payments received as Trustee of the Sundorne Estate.  Payments for administration and attending meetings made by Balfours, Windsor House, Windsor Place, Shrewsbury SY1 2BY.£895 received in November 2014. Hours: 5 hrs. (Registered 08 December 2014)Payments from ComRes, Four Millbank, London SW1P 3JA, for completing Parliamentary Panel Surveys:£75 received in November 2014.  Hours: 15 mins. (Registered 04 December 2014)£75 received in February 2015.  Hours: 15 mins. (Registered 26 February 2015)£75 received in April 2015. Hours: 15 mins. (Registered 04 June 2015)",
@@ -3869,7 +3869,7 @@ export const poiData = [
   },
   {
     id: "1712",
-    name: "Employment and earnings",
+    name: "Simon Hart",
     title: "Employment and earnings",
     description:
       "Outdoor education consultant (Updated 18 June 2013) to the Countryside Alliance, 367 Kennington Road, London SE11 4PT, for which I receive a fee of £5,000 per quarter for 6 hours per week. Contract renewed for 1 June 2014 to 31 May 2015 (Updated 14 August 2014). (Registered 15 October 2012)Quarterly payment of £5,000, received 13 March 2015.  Hours: 78 hrs. (Registered 17 March 2015)Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing Parliamentary Panel Surveys:£100 received in April 2015. Hours: 15 mins. (Registered 04 June 2015)12 March 2015, payment of £150 from Time Inc (UK) Ltd, Blue Fin Building, 110 Southwark Street, London SE1 0SU, for an article.  Hours: 30 mins. (Registered 24 March 2015)",
@@ -3880,7 +3880,7 @@ export const poiData = [
   },
   {
     id: "1713",
-    name: "Employment and earnings",
+    name: "Peter Lilley",
     title: "Employment and earnings",
     description:
       "Non-executive Director of IDOX plc (formerly i-documentsystems group plc); information advisory services, document management software and systems.  Address:  Idox plc, 2nd Floor, Building 1310, Arlington Business Park, Theale, Reading, Berkshire RG7 4SA.  Paid £2,083 per month, until further notice.  Hours: 8 hrs per month (updated 22 July 2015):25 October 2014, monthly payment of £2,083. Hours: 8 hrs. (Registered 21 November 2014)25 November 2014, monthly payment of £2,083. Hours: 8 hrs. (Registered 03 December 2014)27 December 2014, monthly payment of £2,083. Hours: 8 hrs. (Registered 07 January 2015)25 January 2015, monthly payment of £2,083. Hours: 8 hrs. (Registered 25 February 2015)25 February 2015 monthly payment of £2,083. Hours: 8 hrs. (Registered 25 February 2015)25 March 2015 monthly payment of £2,083. Hours: 8 hrs.  (Registered 26 March 2015)25 April 2015 monthly payment of £2,083. Hours: 8 hrs. (Registered 12 May 2015)25 May 2015 monthly payment of £2,083. Hours: 8 hrs. (Registered 28 May 2015)25 June 2015 monthly payment of £2,083. Hours: 8 hrs. (Registered 21 July 2015)",
@@ -3889,7 +3889,7 @@ export const poiData = [
   },
   {
     id: "1717",
-    name: "Employment and earnings",
+    name: "Mark Pritchard",
     title: "Employment and earnings",
     description:
       "Director of Mark Pritchard Advisory Ltd, c/o Gallaghers, 2nd Floor, 69/85 Tabernacle Street, London EC2A 4RR (updated 7 July 2015). (Registered 07 September 2013)",
@@ -3900,7 +3900,7 @@ export const poiData = [
   },
   {
     id: "1718",
-    name: "Employment and earnings",
+    name: "Mark Pritchard",
     title: "Employment and earnings",
     description:
       "Until further notice, consultant offering general advice to The Soufan Group; a strategic security consultancy and client of Mark Pritchard Advisory Ltd. Address: 26 York Street, London W1U 6PZ. I receive £2,074.52 a month for an expected commitment of 11.5 hours. (Updated 1 July 2015)Received payment of £2,074.52 (gross) for October 2014.  Hours: 11.5 hrs. (Registered 03 November 2014)Received payment of £2,074.52 (gross) for November 2014.  Hours: 11.5 hrs. (Registered 02 December 2014)Received payment of £2,074.52 (gross) for December 2014.  Hours: 11.5 hrs. (Registered 02 January 2015)Received payment of £2,074.52 (gross) for January 2015.  Hours: 11.5 hrs. (Registered 02 February 2015)Received payment of £2,074.52 (gross) for February 2015.  Hours: 11.5 hrs. (Registered 02 March 2015)Received payment of £2,074.52 (gross) for May 2015. Hours: 11.5 hrs. (Registered 29 May 2015)Received payment of £2,074.52 (gross) for March 2015. Hours: 11.5 hrs. (Registered 01 June 2015)Received payment of £2,074.52 (gross) for April 2015. Hours: 11.5 hrs. (Registered 01 June 2015)Until further notice, consultant offering general advice to the Consumer Credit Association (CCA); a client of client of Mark Pritchard Advisory Ltd. Address: Queens House, Queens Road, Chester CH1 3BQ. I receive £1,666.67 a month for an expected commitment of 9.5 hours. (Updated 1 July 2015)Payment of £1,500 (gross) for October 2014.  Hours: 9.5 hrs. (Registered 03 November 2014)Payment of £1,500 (gross) for November 2014.  Hours: 9.5 hrs. (Registered 02 December 2014)Payment of £1,500 (gross) for December 2014.  Hours: 9.5 hrs. (Registered 02 January 2015)Payment of £1,500 (gross) for January 2015.  Hours: 9.5 hrs. (Registered 02 February 2015)Payment of £1,500 (gross) for February 2015.  Hours: 9.5 hrs. (Registered 02 March 2015)Payment of £1,500 (gross) for May 2015. Hours: 9.5 hrs. (Registered 29 May 2015)Payment of £1,500 (gross) for March 2015. Hours: 9.5 hrs. (Registered 01 June 2015)Payment of £1,500 (gross) for April 2015. Hours: 9.5 hrs. (Registered 01 June 2015)£2, 000 received from Associated Newspapers, 2 Derry Street, London W8 5TT, for an article. Hours: 2 hrs. (Registered 16 February 2015)",
@@ -3911,7 +3911,7 @@ export const poiData = [
   },
   {
     id: "1719",
-    name: "Employment and earnings",
+    name: "John Redwood",
     title: "Employment and earnings",
     description:
       "Visiting Professorship to Middlesex University Business School, lecturing on financial subjects related to my previous career.  Address: The Burroughs, London, NW4 4BT. From June 2015 until further notice, I receive £973 a month for an expected commitment of 13 hours a month. (Updated 23 July 2015)Received £973 gross for October 2014. Hours: 13 hrs. (Registered 03 November 2014)Received £973 gross for November 2014. Hours: 13 hrs. (Registered 04 December 2014)Received £973 gross for December 2014. Hours: 14 hrs. (Registered 06 January 2015)Received £973 gross for January 2015. Hours: 12 hrs. (Registered 04 February 2015)Received £973 gross for February 2015. Hours: 12 hrs. (Registered 02 March 2015)Received £973 gross for March 2015. Hours: 14 hrs. (Registered 30 March 2015)Received £973 gross for April 2015. Hours: 15 hrs. (Registered 12 May 2015)8 June 2015, received £973 gross for May 2015. Hours: 12 hrs. (Registered 09 June 2015)Chairman of Investment Committee of CS Pan Asset Capital Management Ltd (Updated 16 November 2013), Vestry House, Laurence Pountney, London EC4R 0EH; an investment advisory company.  My duties are to write a twice weekly market review and investment report, to chair the investment committee and to make oral and written presentations. From July 2015 until further notice, I receive £41,912 a quarter for an expected commitment of 75 hours. (Updated 31 July 2015)Gross payment of £41,912 for November 2014 to January 2015.  Hours: 67 hrs. (Registered 27 January 2015)Gross payment of £41,912 for February to April 2015.  Hours: 75 hrs. (Registered 11 May 2015)Member of the Advisory Board of EPIC Private Equity, Audrey House, 16-20 Ely Place, London EC1N 6SN.Payment of £3,750 for the last three quarters to December 2014. Hours: 7 hrs. (Registered 02 February 2015)7 August 2015, payment of £2,500 for January to the end of June 2015. Hours: 4 hrs. (Registered 15 September 2015)",
@@ -3922,7 +3922,7 @@ export const poiData = [
   },
   {
     id: "1722",
-    name: "Employment and earnings",
+    name: "Royston Smith",
     title: "Employment and earnings",
     description:
       "Payments from Barker Mill Estates, Longdown, Marchwood SO40 4UH, for consultancy services: (Registered 10 August 2015)6 July 2015, £5,000 received. Hours: no hours since the Election. (Registered 10 August 2015)16 October 2015, received £6,000 for the period 1 June - 31 August 2015. Hours: 30 hours (10 hours per month). (Registered 22 October 2015)5 August 2015, £9,000 received from Bouygues Development, Elizabeth House, 39 York Road London SE1 7NQ, for consultancy services. Hours: no hours since the Election. (Registered 24 August 2015)26 August 2015, £200 received from Ipsos MORI, 3 Thomas More Square, London, E1W 1YW, for completing a survey. Hours: 1.5 hrs. Payment donated direct to my constituency association. (Registered 18 September 2015)",
@@ -3933,7 +3933,7 @@ export const poiData = [
   },
   {
     id: "1723",
-    name: "Employment and earnings",
+    name: "Paul Beresford",
     title: "Employment and earnings",
     description:
       "Employed as part-time dental surgeon for Beresford Dental Practice Limited, 207 Upper Richmond Road, SW15 6SQ:Fees paid to Beresford Dental Practice for 2013-14, giving net profits of £6,613.  I made no drawings from the company during the year. Hours: 300 hrs approx. (updated 26 May 2015) (Registered 16 December 2014)",
@@ -3944,7 +3944,7 @@ export const poiData = [
   },
   {
     id: "1724",
-    name: "Employment and earnings",
+    name: "Paul Beresford",
     title: "Employment and earnings",
     description:
       "Retained as consultant on Professional Indemnity for Lockton Insurance, The St Botolph Bldg, 138 Houndsditch, London EC3A 7AG (until 31 March 2015). Remuneration of £1,000 a month for between 6 and 24 hours each month. (Updated 26 May 2015)December 2014, payment of £5,000 for the five months to end November 2014. Hours: 70 hrs approx. (Registered 16 December 2014)",
@@ -3955,7 +3955,7 @@ export const poiData = [
   },
   {
     id: "1725",
-    name: "Employment and earnings",
+    name: "Graham Brady",
     title: "Employment and earnings",
     description:
       "Fees from ComRes, 4 Millbank, London SW1P 3JA, for responding to opinion research:Fee of £75 paid direct to charity on 29 September 2014 for September Panel survey. Hours: 30 mins. (Registered 07 October 2014)Until further notice I receive £2,500 a year (paid quarterly) for my role as Associate Editor of The House Magazine (Dods Parliamentary), 21 Dartmouth St, Westminster, London SW1H 0BP. Hours: 5 hrs a quarter. (Updated 31 May 2015)Received £625 on 13 October 2014 (third quarter of 2014). Hours: 5 hrs. (Registered 16 October 2014)Received £625 on 14 January 2015 (fourth quarter of 2014). Hours: 5 hrs. (Registered 23 January 2015)Lay Associate Member of the Medical Practitioners Tribunal Service, St James’s Buildings, 79 Oxford Street, Manchester M1 6FQ; formerly the General Medical Council Fitness to Practice Panel  (updated 6 November 2012). (Registered 01 December 2011)Fee of £155 received on 26 September 2014. Hours: no additional hours. (Registered 06 October 2014)Fee of £1,240 received on 2 October 2014. Hours: 6 hrs. (Registered 07 October 2014)Fee of £310 received on 8 January 2015. Hours: 3 hrs. (Registered 14 January 2015)Fee of £620 received on 13 March 2015. Hours: 5 hrs. (Registered 17 March 2015)Fee of £310 received on 6 July 2015. Hours: 3.5 hrs. (Registered 09 July 2015)Cancelation fee of £155 received on 14 July 2015. Hours: none. (Registered 16 July 2015)Fee of £310 received on 26 August 2015. Hours: 5 hrs. (Registered 02 September 2015)Fee of £2,480 received on 1 September 2015. Hours: 18 hrs. (Registered 02 September 2015)",
@@ -3966,7 +3966,7 @@ export const poiData = [
   },
   {
     id: "1727",
-    name: "Employment and earnings",
+    name: "Mary Creagh",
     title: "Employment and earnings",
     description:
       "Payments received from ComRes, Four Millbank, London SW1P 3JA:29 September 2014, received £75 for survey, donated to Wakefield CLP. Hours: 1 hr. (Registered 03 October 2014)20 November 2014, received £75 for survey, donated to Wakefield CLP. Hours: 1 hr. (Registered 27 November 2014)12 February 2015, received £75 for survey, donated to Wakefield CLP. Hours: 1 hr. (Registered 03 March 2015)",
@@ -3977,7 +3977,7 @@ export const poiData = [
   },
   {
     id: "1729",
-    name: "Employment and earnings",
+    name: "Alex Cunningham",
     title: "Employment and earnings",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.Payment of £75 for participation in July 2014 parliamentary panel survey, made directly to constituency party.  Hours: 1 hr. (Registered 03 October 2014)Payment of £75 for participation in October 2014 parliamentary panel survey, made directly to constituency party.  Hours: 1 hr. (Registered 28 November 2014)Payment of £75 for participation in November 2014 parliamentary panel survey, made directly to constituency party.  Hours: 1 hr. (Registered 06 March 2015)Payments from YouGov plc, 50 Featherstone Street, London EC1V 8RT for opinion surveys:Payment of £100 received for survey completed in March 2015. Payment donated to constituency party. Hours: 1 hr. (Registered 08 May 2015)",
@@ -3988,7 +3988,7 @@ export const poiData = [
   },
   {
     id: "1730",
-    name: "Employment and earnings",
+    name: "Alex Cunningham",
     title: "Employment and earnings",
     description:
       "Payments from Leftfield, 51 Clink Street Studios, Clink Street, London SE1 9DG:Payment of £100 received for market research survey. Payment donated to constituency party. Hours: 1 hr. (Registered 22 December 2014)Payments from Ipsos MORI, 79-81 Borough Road, London SE1 1FY, for opinion surveys:  (Registered 06 March 2015)Payment of £200 for Winter 2014 Survey, made directly to constituency party. Hours: 1 hr. (Registered 06 March 2015)Payment of £200 for Summer 2015 survey, made directly to constituency party.  Hours: 1 hr. (Registered 10 July 2015)",
@@ -3999,7 +3999,7 @@ export const poiData = [
   },
   {
     id: "1734",
-    name: "Employment and earnings",
+    name: "Laurence Robertson",
     title: "Employment and earnings",
     description:
       "Position on the Advisory Board of Veolia Environmental Services, 210 Pentonville Rd, London N1 9JY from 1 June 2013. Expected annual remuneration of £6,000, plus £1,000 for each meeting of the Advisory Board; a total of £9,000-£10,000 p.a.  Expected commitment of about 60 hrs a year. (Registered 25 February 2014)3 February 2015, received £6,000. Hours: 32 hrs. (Registered 09 February 2015)13 May 2015, received £2,500. Hours: 16 hrs. (Registered 08 June 2015)Payment from Ipsos MORI UK Ltd, 79-81 Borough Road, London SE1 1FY:30 September 2014, £80 received for completing a survey. Hours: 30 mins. (Registered 22 October 2014)29 January 2015, £200 received for completing a survey. Hours: 1 hr. (Registered 09 February 2015)24 August 2015, received £200 for completing a survey. Hours: 45 mins. (Registered 15 September 2015)",
@@ -4010,7 +4010,7 @@ export const poiData = [
   },
   {
     id: "1759",
-    name: "Remunerated directorships",
+    name: "Tony Baldry",
     title: "Remunerated directorships",
     description:
       "Deputy Chairman, Woburn Energy plc, 16 Upper Woburn Place, London, WC1H 0AF; AIM listed company specialising in oil exploration and recovery.  Work includes attending meetings and advising on business opportunities.",
@@ -4021,7 +4021,7 @@ export const poiData = [
   },
   {
     id: "1770",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Baron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Monthly investment column in the FTs’ Investors Chronicle magazine. Address: Number One Southwark Bridge, London SE1 9HL. All fees waived in lieu of FT donations to charities of Mr Baron’s choice.",
@@ -4032,7 +4032,7 @@ export const poiData = [
   },
   {
     id: "1771",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Baron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from the Investors Chronicle magazine, for speaking at investment seminars. Address: Number One Southwark Bridge, London SE1 9HL:",
@@ -4043,7 +4043,7 @@ export const poiData = [
   },
   {
     id: "1773",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kevin Barron",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing opinion surveys for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -4054,7 +4054,7 @@ export const poiData = [
   },
   {
     id: "1776",
-    name: "Remunerated employment, office, profession etc",
+    name: "Guto Bebb",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -4065,7 +4065,7 @@ export const poiData = [
   },
   {
     id: "1782",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alan Beith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion research:",
@@ -4074,7 +4074,7 @@ export const poiData = [
   },
   {
     id: "1797",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Beresford",
     title: "Remunerated employment, office, profession etc",
     description:
       "Employed as part-time dental surgeon for Beresford Dental Practice Limited, 207 Upper Richmond Road, SW15 6SQ:",
@@ -4085,7 +4085,7 @@ export const poiData = [
   },
   {
     id: "1803",
-    name: "Remunerated employment, office, profession etc",
+    name: "Clive Betts",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys. All fees are paid direct to my constituency party:",
@@ -4096,7 +4096,7 @@ export const poiData = [
   },
   {
     id: "1805",
-    name: "Remunerated employment, office, profession etc",
+    name: "Bob Blackman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -4107,7 +4107,7 @@ export const poiData = [
   },
   {
     id: "1814",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Blomfield",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee for completing survey for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -4118,7 +4118,7 @@ export const poiData = [
   },
   {
     id: "1817",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Blomfield",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from Guardian News & Media Ltd, Kings Place, 90 York Way, London N1 9GU:",
@@ -4129,7 +4129,7 @@ export const poiData = [
   },
   {
     id: "1821",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for articles written for Associated Newspapers Ltd, 2 Derry Street, London W8 5TT:",
@@ -4138,7 +4138,7 @@ export const poiData = [
   },
   {
     id: "1822",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Member of the Oracle Capital Advisory Board, Oracle House, 8-12 Welbeck Way, London W1G 9YL.  Four meetings annually plus charitable fundraising events:",
@@ -4147,7 +4147,7 @@ export const poiData = [
   },
   {
     id: "1823",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Blunkett",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Guardian (Kings Place, 90 York Way, London N1 9GU):",
@@ -4156,7 +4156,7 @@ export const poiData = [
   },
   {
     id: "1836",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Bone",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing surveys for ComRes, 4 Millbank, London, SW1P 3JA:",
@@ -4167,7 +4167,7 @@ export const poiData = [
   },
   {
     id: "1843",
-    name: "Remunerated employment, office, profession etc",
+    name: "Ben Bradshaw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -4178,7 +4178,7 @@ export const poiData = [
   },
   {
     id: "1844",
-    name: "Remunerated employment, office, profession etc",
+    name: "Ben Bradshaw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -4189,7 +4189,7 @@ export const poiData = [
   },
   {
     id: "1845",
-    name: "Remunerated employment, office, profession etc",
+    name: "Graham Brady",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for responding to opinion research:Fee of £75 paid direct to charity on 29 September 2014 for September Panel survey.",
@@ -4200,7 +4200,7 @@ export const poiData = [
   },
   {
     id: "1862",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Bryant",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Guardian, Kings Place, 90 York Way, London N1 9GU:",
@@ -4211,7 +4211,7 @@ export const poiData = [
   },
   {
     id: "1866",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Burstow",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for speaking at Westminster Explained events, Dods, 21 Dartmouth Street, Westminster London SW1H 9BP. All fees donated to Sutton Liberal Democrats:",
@@ -4222,7 +4222,7 @@ export const poiData = [
   },
   {
     id: "1867",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Burstow",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for completing opinion surveys from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys. All fees donated to Sutton Liberal Democrats:",
@@ -4233,7 +4233,7 @@ export const poiData = [
   },
   {
     id: "1870",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alistair Burt",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from PLLG Investors Advisors Ltd, 1200 Century Way, Thorpe Business Park, Leeds LS15 8ZA:",
@@ -4244,7 +4244,7 @@ export const poiData = [
   },
   {
     id: "1882",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Byrne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for teaching received from Oxford University Said Business School, University of Oxford, OX1 5NY:",
@@ -4255,7 +4255,7 @@ export const poiData = [
   },
   {
     id: "1883",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Byrne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB, for licencing fees:",
@@ -4266,7 +4266,7 @@ export const poiData = [
   },
   {
     id: "1885",
-    name: "Overseas visits",
+    name: "Liam Byrne",
     title: "Overseas visits",
     description:
       "Name of donor: (1) UK China Forum Ltd, a not for profit company established by the Great Britain China Centre for the purpose of promoting UK-China dialogues, from sponsorship by HSBC and Prudential (2) All China Youth FederationAddress of donor: (1) 15 Belgrave Square, London SW1X 8PS (2) 10, Qianmen Dong Dajie, Beijing, 100051, People’s Republic of ChinaAmount of donation (or estimate of the probable value): (1) £1,200.21 for air ticket and visa (2) three night’s bed and breakfast in hotels in Beijing and Chongqing at an estimated cost of £80 per night (£240); total £1,440.21Destination of visit: Beijing and Chongqing, ChinaDate of visit: 22-15 July 2014Purpose of visit: to attend the 2014 UK-China Young Leaders Roundtable, organised by the Great Britain China Centre, UK China Forum Ltd and All-China Youth Federation to discuss building UK-China partnership for reform and innovation.",
@@ -4277,7 +4277,7 @@ export const poiData = [
   },
   {
     id: "1888",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for completion of surveys:",
@@ -4288,7 +4288,7 @@ export const poiData = [
   },
   {
     id: "1889",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for online surveys:",
@@ -4299,7 +4299,7 @@ export const poiData = [
   },
   {
     id: "1891",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alun Cairns",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Populus, Northburgh House, 10 Northburgh Street, London EC1V 0AT, for opinion surveys:",
@@ -4310,7 +4310,7 @@ export const poiData = [
   },
   {
     id: "1903",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kenneth Clarke",
     title: "Remunerated employment, office, profession etc",
     description:
       "Received £12,000 via Speakers in Partnership, 33 Sun Street, London EC2M 2PA for",
@@ -4319,7 +4319,7 @@ export const poiData = [
   },
   {
     id: "1910",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rosie Cooper",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for completion of surveys:",
@@ -4330,7 +4330,7 @@ export const poiData = [
   },
   {
     id: "1914",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jeremy Corbyn",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -4341,7 +4341,7 @@ export const poiData = [
   },
   {
     id: "1919",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tracey Crouch",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys.  :",
@@ -4352,7 +4352,7 @@ export const poiData = [
   },
   {
     id: "1921",
-    name: "Overseas visits",
+    name: "Tracey Crouch",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Coventry Building Society; (2) British Outdoor Industries Association; (3) Berghaus.Address of donor: (1) Binley Business Park, Harry Weston Road, Coventry CV3 2TQ; (2) 12 Church Street, Windemere, Cumbria, LA23 1AQ; (3) 12 Colima Avenue, Sunderland Enterprise Park, Sunderland. SR5 3XBAmount of donation (or estimate of the probable value):  (1) £2,500    (2) £200     (3) £350Destination of visit: Iliniza, Cayembe, Cotopaxi in Ecuador.Date of visit: 28 May- 9 June 2014Purpose of visit: to launch the Royal British Legion Battle Back recovery centre expeditions with injured soldiers.",
@@ -4363,7 +4363,7 @@ export const poiData = [
   },
   {
     id: "1927",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion research:",
@@ -4372,7 +4372,7 @@ export const poiData = [
   },
   {
     id: "1928",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street London EC1Y 8RT, for opinion research:",
@@ -4381,7 +4381,7 @@ export const poiData = [
   },
   {
     id: "1929",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nicholas Dakin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Envoy Partnership, 1 Alfred Place, 2nd Floor, London WC1V 6AX, for opinion research:",
@@ -4390,7 +4390,7 @@ export const poiData = [
   },
   {
     id: "1931",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Biteback Publishing, Westminster Tower, 3 Albert Embankment, London, SE1 7SP for a book I co-wrote:",
@@ -4401,7 +4401,7 @@ export const poiData = [
   },
   {
     id: "1932",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from DMGT PLC, Registered Office: Northcliffe House, 2 Derry St, Kensington, London, W8 5TT:",
@@ -4412,7 +4412,7 @@ export const poiData = [
   },
   {
     id: "1934",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Telegraph Media Group Ltd, 111 Buckingham Palace Road London SW1W 0DT:",
@@ -4423,7 +4423,7 @@ export const poiData = [
   },
   {
     id: "1935",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Danczuk",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from the Guardian Media Group, Kings Place, 90 York Way, London N1 9GU:",
@@ -4434,7 +4434,7 @@ export const poiData = [
   },
   {
     id: "1940",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alistair Darling",
     title: "Remunerated employment, office, profession etc",
     description:
       "15 May 2014, I received a further payment of £597.77 in respect of royalties payable under my contract with Atlantic Books, previously registered.  Time spent:  nil. Address of payer: Capell and Land Ltd, 29 Wardour Street, London, W1D 6PS.",
@@ -4443,7 +4443,7 @@ export const poiData = [
   },
   {
     id: "1946",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.",
@@ -4452,7 +4452,7 @@ export const poiData = [
   },
   {
     id: "1947",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Capita Business Services, 2nd floor, 17-19 Rochester Row, London SW1P 1LA:",
@@ -4461,7 +4461,7 @@ export const poiData = [
   },
   {
     id: "1949",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT,",
@@ -4470,7 +4470,7 @@ export const poiData = [
   },
   {
     id: "1951",
-    name: "Remunerated employment, office, profession etc",
+    name: "Glyn Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes for opinion surveys. Address: Four Millbank, London SW1P 3JA.",
@@ -4481,7 +4481,7 @@ export const poiData = [
   },
   {
     id: "1952",
-    name: "Remunerated employment, office, profession etc",
+    name: "Glyn Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT for opinion surveys:",
@@ -4492,7 +4492,7 @@ export const poiData = [
   },
   {
     id: "1958",
-    name: "Remunerated employment, office, profession etc",
+    name: "Philip Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA:",
@@ -4503,7 +4503,7 @@ export const poiData = [
   },
   {
     id: "1960",
-    name: "Remunerated employment, office, profession etc",
+    name: "Philip Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys.",
@@ -4514,7 +4514,7 @@ export const poiData = [
   },
   {
     id: "1969",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davis",
     title: "Remunerated employment, office, profession etc",
     description:
       "Articles written for News International Group, News International Ltd, 1 Virginia Street, London E98 1XY.",
@@ -4525,7 +4525,7 @@ export const poiData = [
   },
   {
     id: "1970",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Davis",
     title: "Remunerated employment, office, profession etc",
     description:
       "Articles written for Associated Newspapers Ltd.  Address: Northcliffe House, 2 Derry Street, Kensington, London W8 5TT:",
@@ -4536,7 +4536,7 @@ export const poiData = [
   },
   {
     id: "1973",
-    name: "Remunerated employment, office, profession etc",
+    name: "Brian H Donohoe",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion research.",
@@ -4545,7 +4545,7 @@ export const poiData = [
   },
   {
     id: "1974",
-    name: "Remunerated employment, office, profession etc",
+    name: "Brian H Donohoe",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for online surveys:",
@@ -4554,7 +4554,7 @@ export const poiData = [
   },
   {
     id: "1998",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Evans",
     title: "Remunerated employment, office, profession etc",
     description:
       "ComRes, 4 Millbank, London, SW1P 3JA, for completing opinion survey:(b)",
@@ -4565,7 +4565,7 @@ export const poiData = [
   },
   {
     id: "1999",
-    name: "Remunerated employment, office, profession etc",
+    name: "Graham Evans",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in opinion research:",
@@ -4576,7 +4576,7 @@ export const poiData = [
   },
   {
     id: "2005",
-    name: "Remunerated employment, office, profession etc",
+    name: "Paul Farrelly",
     title: "Remunerated employment, office, profession etc",
     description: "Surveys completed for ComRes, 4 Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -4586,7 +4586,7 @@ export const poiData = [
   },
   {
     id: "2011",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Field",
     title: "Remunerated employment, office, profession etc",
     description:
       "As a member of the Advisory Committee I advise on the maintenance of the highest standards of quality and service for the school.  My role covers advising about mid and long-term strategy; acting as an ambassador with the school’s educational partners; speaking at conferences as representative of the school on a range of political issues; furthering relationships with British Council and High Commissions overseas; travelling abroad roughly once every eighteen months to partner schools abroad.Payments made by St Piran’s School, a wholly owned subsidiary of the LSC; Chaucer House, White Hart Yard, London SE1 1NX:",
@@ -4597,7 +4597,7 @@ export const poiData = [
   },
   {
     id: "2012",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Field",
     title: "Remunerated employment, office, profession etc",
     description:
       "Board Advisor to Ellwood Atfield; a specialist recruitment firm in the public affairs and communications sector.  The role includes representing the company in general, providing introductions to the business, advice to management and general insight on recruitment business issues; introducing the company to opportunities and speaking at client and industry events.  Address: 34 Smith Square, London SW1P 3HL.",
@@ -4608,7 +4608,7 @@ export const poiData = [
   },
   {
     id: "2019",
-    name: "Gifts, benefits and hospitality (UK)",
+    name: "Mark Field",
     title: "Gifts, benefits and hospitality (UK)",
     description:
       "Name of donor: Imperial TobaccoAddress of donor: PO Box 525, Winterstoke Road, Bristol BS99 1LQAmount of donation or nature and value if donation in kind: two tickets for the Men’s final at the All-England Club, Wimbledon on 6 July 2014, and associated hospitality, valued at about £1,600 in totalDate of receipt of donation: 6 July 2014Date of acceptance of donation: 6 July 2014Donor status: company, registration 1860181",
@@ -4619,7 +4619,7 @@ export const poiData = [
   },
   {
     id: "2023",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Fitzpatrick",
     title: "Remunerated employment, office, profession etc",
     description: "Fee for survey from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -4629,7 +4629,7 @@ export const poiData = [
   },
   {
     id: "2024",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Fitzpatrick",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from YouGov, 50 Featherstone St, London EC1Y 8RT, for online surveys:",
@@ -4640,7 +4640,7 @@ export const poiData = [
   },
   {
     id: "2028",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Contract with Quercus Editions Limited for writing a book. Address: Quercus Editions Limited, 55 Baker Street, 7th Floor, South Block, London, W1U 8EW.",
@@ -4651,7 +4651,7 @@ export const poiData = [
   },
   {
     id: "2030",
-    name: "Remunerated employment, office, profession etc",
+    name: "Liam Fox",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News UK and Ireland, 1 London Bridge Street, London, SE1 9GF:",
@@ -4662,7 +4662,7 @@ export const poiData = [
   },
   {
     id: "2052",
-    name: "Remunerated employment, office, profession etc",
+    name: "Cheryl Gillan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing online surveys:",
@@ -4673,7 +4673,7 @@ export const poiData = [
   },
   {
     id: "2054",
-    name: "Remunerated employment, office, profession etc",
+    name: "Cheryl Gillan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -4684,7 +4684,7 @@ export const poiData = [
   },
   {
     id: "2059",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Glen",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -4694,7 +4694,7 @@ export const poiData = [
   },
   {
     id: "2061",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Glen",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -4705,7 +4705,7 @@ export const poiData = [
   },
   {
     id: "2065",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael Gove",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments by way of royalties for assorted publications from the Authors Licensing and Collecting Society Ltd, Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -4716,7 +4716,7 @@ export const poiData = [
   },
   {
     id: "2078",
-    name: "Remunerated employment, office, profession etc",
+    name: "James Gray",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -4726,7 +4726,7 @@ export const poiData = [
   },
   {
     id: "2079",
-    name: "Remunerated employment, office, profession etc",
+    name: "James Gray",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT.",
     latitude: "51.52485",
@@ -4736,7 +4736,7 @@ export const poiData = [
   },
   {
     id: "2089",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Gwynne",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for online surveys:",
@@ -4747,7 +4747,7 @@ export const poiData = [
   },
   {
     id: "2096",
-    name: "Remunerated employment, office, profession etc",
+    name: "William Hague",
     title: "Remunerated employment, office, profession etc",
     description:
       "Secondary royalty earnings in relation to a biography:Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -4756,7 +4756,7 @@ export const poiData = [
   },
   {
     id: "2097",
-    name: "Remunerated employment, office, profession etc",
+    name: "William Hague",
     title: "Remunerated employment, office, profession etc",
     description:
       "Secondary royalty earnings in relation to books already written (No additional hours worked):Payments from AudioGO Ltd, St James House, The Square, Lower Bristol Rd, Bath BA2 3BH:",
@@ -4765,7 +4765,7 @@ export const poiData = [
   },
   {
     id: "2100",
-    name: "Gifts, benefits and hospitality (UK)",
+    name: "William Hague",
     title: "Gifts, benefits and hospitality (UK)",
     description:
       "Name of donor: The Travellers ClubAddress of donor: 106 Pall Mall, London SW1Y 5EP.Amount of donation or nature and value if donation in kind: honorary membership of the club (value: £1,440 per year for 2014)Date of first receipt of donation: 12 July 2010Date of acceptance of donation: 12 July 2010Donor status: unincorporated association",
@@ -4774,7 +4774,7 @@ export const poiData = [
   },
   {
     id: "2103",
-    name: "Remunerated employment, office, profession etc",
+    name: "Peter Hain",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Sunday Telegraph, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -4783,7 +4783,7 @@ export const poiData = [
   },
   {
     id: "2109",
-    name: "Remunerated employment, office, profession etc",
+    name: "Robert Halfon",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -4794,7 +4794,7 @@ export const poiData = [
   },
   {
     id: "2125",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received as Trustee of the Sundorne Estate.  Payments for administration and attending meetings made by Balfours, Windsor House, Windsor Place, Shrewsbury SY1 2BY.",
@@ -4805,7 +4805,7 @@ export const poiData = [
   },
   {
     id: "2126",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing Parliamentary Panel Surveys:",
@@ -4816,7 +4816,7 @@ export const poiData = [
   },
   {
     id: "2127",
-    name: "Remunerated employment, office, profession etc",
+    name: "Simon Hart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing Parliamentary Panel Surveys:",
@@ -4827,7 +4827,7 @@ export const poiData = [
   },
   {
     id: "2135",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nick Herbert",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News International Supply Co Ltd, Cygnet Park, 200 Serpentine Way, Peterborough PE7 8FD, for newspaper articles:",
@@ -4836,7 +4836,7 @@ export const poiData = [
   },
   {
     id: "2136",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nick Herbert",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments of from Deloitte LLP, Stonecutter Court, 1 Stonecutter Street, London EC4A 4TR:",
@@ -4845,7 +4845,7 @@ export const poiData = [
   },
   {
     id: "2151",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adam Holloway",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -4856,7 +4856,7 @@ export const poiData = [
   },
   {
     id: "2153",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adam Holloway",
     title: "Remunerated employment, office, profession etc",
     description:
       "Cascade News Ltd, 11 Park Road, Manchester M8 4HT, for completing surveys:",
@@ -4867,7 +4867,7 @@ export const poiData = [
   },
   {
     id: "2156",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jimmy Hood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees for completing surveys for CommunicateResearch Ltd, 4 Millbank, London SW1P 3JA:",
@@ -4876,7 +4876,7 @@ export const poiData = [
   },
   {
     id: "2158",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jimmy Hood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee for completing survey for YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -4885,7 +4885,7 @@ export const poiData = [
   },
   {
     id: "2169",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tristram Hunt",
     title: "Remunerated employment, office, profession etc",
     description:
       "Salary as lecturer at Queen Mary, University of London, Mile End Road, London E1 4NS:",
@@ -4896,7 +4896,7 @@ export const poiData = [
   },
   {
     id: "2172",
-    name: "Remunerated employment, office, profession etc",
+    name: "Huw Irranca-Davies",
     title: "Remunerated employment, office, profession etc",
     description: "Surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",
     latitude: "51.496816",
@@ -4906,7 +4906,7 @@ export const poiData = [
   },
   {
     id: "2173",
-    name: "Remunerated employment, office, profession etc",
+    name: "Huw Irranca-Davies",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for YouGov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -4917,7 +4917,7 @@ export const poiData = [
   },
   {
     id: "2175",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stewart Jackson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Opinion surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.",
@@ -4928,7 +4928,7 @@ export const poiData = [
   },
   {
     id: "2176",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stewart Jackson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Lecturer in British Government and Politics at Richmond University (the American International University in London), Queen’s Road Richmond-upon-Thames TW10 6JP.",
@@ -4939,7 +4939,7 @@ export const poiData = [
   },
   {
     id: "2184",
-    name: "Remunerated employment, office, profession etc",
+    name: "Bernard Jenkin",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Aros Corporation Limited, 112 Eversleigh Road, London SW11 5XB, (formerly Envoy Media, 11 Grosvenor Crescent, London SW1X 7EE), for regular column in Diplomat Magazine.  Two hours work per month:",
@@ -4950,7 +4950,7 @@ export const poiData = [
   },
   {
     id: "2191",
-    name: "Remunerated employment, office, profession etc",
+    name: "Kevan Jones",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -4960,7 +4960,7 @@ export const poiData = [
   },
   {
     id: "2193",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tessa Jowell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from BSkyB, Grant Way, Isleworth, Middlesex TW7 5QD for press previews:",
@@ -4969,7 +4969,7 @@ export const poiData = [
   },
   {
     id: "2199",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tessa Jowell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Received from the Corporate Research Forum, One Heddon Street, London W1B 4BD, (two thirds of the agreed sum) for chairing and moderating the Forum's annual conference held in Berlin on 29 September to 1 October 2014.",
@@ -4978,7 +4978,7 @@ export const poiData = [
   },
   {
     id: "2207",
-    name: "Overseas visits",
+    name: "Tessa Jowell",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Magic Bus UK; (2) Magic Bus India; (3) British AirwaysAddress of donor: (1) 32-36 Loman St, London SE1 0EH; (2) Todi Estate Rn 5, A Wing,  2nd  floor, Sun Mills Compound Lower Parel (W), Mumbai, India 400 013; (3) Community Investment, Australasia House, Waterside, PO Box 365, Harmondsworth, UB7 0GBAmount of donation (or estimate of the probable value): (1) accommodation in Bangalore estimated at £120 and airline taxes of  £322.35; £442.35 in total; (2) accommodation in New Delhi estimated at £335; (3) Return flights from London to Delhi and Delhi to Bangalore with a total value estimated at £2,120Destination of visit: New Delhi and BangaloreDate of visit: 9 to 15 February 2014Purpose of visit: To participate in a conference as part of my work for Magic Bus, and to volunteer on a Magic Bus project.",
@@ -4987,7 +4987,7 @@ export const poiData = [
   },
   {
     id: "2210",
-    name: "Remunerated employment, office, profession etc",
+    name: "Charles Kennedy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Authors’ Licensing and Collecting Society, The Writers’ House, 13 Haydon St, London EC3N 1DB:",
@@ -4998,7 +4998,7 @@ export const poiData = [
   },
   {
     id: "2211",
-    name: "Remunerated employment, office, profession etc",
+    name: "Sadiq Khan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for opinion research surveys:",
@@ -5009,7 +5009,7 @@ export const poiData = [
   },
   {
     id: "2220",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Lammy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -5020,7 +5020,7 @@ export const poiData = [
   },
   {
     id: "2225",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Lammy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fee from Cumberlege Connections Ltd, Snells Cottage, The Green, Newick, Lewes BN8 4LA:",
@@ -5031,7 +5031,7 @@ export const poiData = [
   },
   {
     id: "2231",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Lazarowicz",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in opinion surveys.  Payments used towards cost of my parliamentary newsletter.",
@@ -5042,7 +5042,7 @@ export const poiData = [
   },
   {
     id: "2237",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jessica Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Messrs Knowles Benning & Co, 2 George Street West, Luton, Bedfordshire, LU1 2BX.",
@@ -5053,7 +5053,7 @@ export const poiData = [
   },
   {
     id: "2240",
-    name: "Remunerated employment, office, profession etc",
+    name: "Phillip Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received in my capacity as a freelance GP:Payments from Bracknell Urgent Care Centre, c/o One Medicare Limited, The Business Centre, Banktop Farm, Black Hill Road, Leeds LS21 1PY:",
@@ -5064,7 +5064,7 @@ export const poiData = [
   },
   {
     id: "2241",
-    name: "Remunerated employment, office, profession etc",
+    name: "Phillip Lee",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Express Newspapers, The Northern & Shell Building, 10 Lower Thames Street, London EC3R 6EN:",
@@ -5075,7 +5075,7 @@ export const poiData = [
   },
   {
     id: "2246",
-    name: "Remunerated employment, office, profession etc",
+    name: "Emma Lewell-Buck",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London SW1P 3JA, for opinion surveys:",
@@ -5086,7 +5086,7 @@ export const poiData = [
   },
   {
     id: "2254",
-    name: "Remunerated directorships",
+    name: "Peter Lilley",
     title: "Remunerated directorships",
     description:
       "IDOX plc (formerly i-documentsystems group plc) (non-executive); information advisory services, document management software and systems.  Address:  Chancery Exchange, 10 Furnival St, London EC4A 1AB:",
@@ -5095,7 +5095,7 @@ export const poiData = [
   },
   {
     id: "2266",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Mann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from ComRes, Four Millbank, London SW1P 3JA, following the completion of surveys. Payment made to Bassetlaw CLP:",
@@ -5104,7 +5104,7 @@ export const poiData = [
   },
   {
     id: "2268",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Mann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from Whitefox, @Work Hubs, 105a Euston Street, London NW1 2EW, on commission by the Pears Foundation, Clive House, 2 Old Brewery Mews, London NW3 1PZ, for preparation of a manuscript for a book.",
@@ -5113,7 +5113,7 @@ export const poiData = [
   },
   {
     id: "2270",
-    name: "Overseas visits",
+    name: "John Mann",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Coventry Building Society; (2) British Outdoor Industries Association; (3) BerghausAddress of donor: (1) Binley Business Park, Harry Weston Road, Coventry CV3 2TQ; (2) 12 Church Street, Windermere, Cumbria, LA23 1AQ; (3) 12 Colima Avenue, Sunderland Enterprise Park, Sunderland. SR5 3XBAmount of donation (or estimate of the probable value):  (1) £2,500    (2) £200     (3) £350Destination of visit: Iliniza, Cayembe, Cotopaxi in Ecuador.Date of visit: 28 May- 9 June 2014Purpose of visit: to launch the Royal British Legion Battle Back recovery centre expeditions with injured soldiers.",
@@ -5122,7 +5122,7 @@ export const poiData = [
   },
   {
     id: "2278",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael McCann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -5133,7 +5133,7 @@ export const poiData = [
   },
   {
     id: "2279",
-    name: "Remunerated employment, office, profession etc",
+    name: "Michael McCann",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from You Gov, 50 Featherstone Street, London EC1Y 8RT:",
@@ -5144,7 +5144,7 @@ export const poiData = [
   },
   {
     id: "2285",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jason McCartney",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -5154,7 +5154,7 @@ export const poiData = [
   },
   {
     id: "2286",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jason McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov, 50 Featherstone Street, London EC1Y 8RT, for opinion survey:",
@@ -5165,7 +5165,7 @@ export const poiData = [
   },
   {
     id: "2289",
-    name: "Remunerated employment, office, profession etc",
+    name: "Karl McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -5176,7 +5176,7 @@ export const poiData = [
   },
   {
     id: "2290",
-    name: "Remunerated employment, office, profession etc",
+    name: "Karl McCartney",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for opinion surveys:",
@@ -5187,7 +5187,7 @@ export const poiData = [
   },
   {
     id: "2295",
-    name: "Remunerated employment, office, profession etc",
+    name: "Alison McGovern",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, 4 Millbank, London, SW1P 3JA, for opinion surveys:",
@@ -5198,7 +5198,7 @@ export const poiData = [
   },
   {
     id: "2300",
-    name: "Directorships",
+    name: "Stephen McPartland",
     title: "Directorships",
     description:
       "McPartland Consulting Ltd, Richmond House, Walkern Road, Stevenage, Herts, SG1 3QP; strategic consultancy business.",
@@ -5209,7 +5209,7 @@ export const poiData = [
   },
   {
     id: "2302",
-    name: "Clients",
+    name: "Stephen McPartland",
     title: "Clients",
     description:
       "Fees from Association of Welding Distribution (AWD), Secure Hold Business Centre, Studley Road, Redditch B98 7LG, for provision of strategic consultancy advice:",
@@ -5220,7 +5220,7 @@ export const poiData = [
   },
   {
     id: "2311",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nigel Mills",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from CommunicateResearch Ltd, Coveham House, Downside Bridge Road, Cobham, Surrey KT11 3EP for opinion research:",
@@ -5231,7 +5231,7 @@ export const poiData = [
   },
   {
     id: "2312",
-    name: "Remunerated employment, office, profession etc",
+    name: "Nigel Mills",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received from YouGov, 50 Featherstone St, London EC1Y 8RT, for opinion surveys:",
@@ -5242,7 +5242,7 @@ export const poiData = [
   },
   {
     id: "2315",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Mitchell",
     title: "Remunerated employment, office, profession etc",
     description:
       "The Foundation, 82 Dean St, London W1D 3SP; growth and innovation consultancy. Member of the Advisory Board. Remuneration: £3,000 a day, with an expected time commitment of 6 days a year from February 2013.",
@@ -5253,7 +5253,7 @@ export const poiData = [
   },
   {
     id: "2316",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Mitchell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Montrose Associates, 97, Jermyn Street, London SW1Y 6JE; strategic consultancy. Senior Adviser. Remuneration: £3,000 a day, with an expected time commitment of one day a month from March 2013.",
@@ -5264,7 +5264,7 @@ export const poiData = [
   },
   {
     id: "2319",
-    name: "Remunerated employment, office, profession etc",
+    name: "Madeleine Moon",
     title: "Remunerated employment, office, profession etc",
     description: "Fees for surveys for ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -5274,7 +5274,7 @@ export const poiData = [
   },
   {
     id: "2335",
-    name: "Remunerated employment, office, profession etc",
+    name: "Greg Mulholland",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes for participation in parliamentary panel surveys.  Address: Four Millbank, London SW1P 3JA:",
@@ -5285,7 +5285,7 @@ export const poiData = [
   },
   {
     id: "2339",
-    name: "Remunerated employment, office, profession etc",
+    name: "Meg Munn",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from Comres, 4 Millbank London SW1P 3SE, for completing surveys:",
@@ -5296,7 +5296,7 @@ export const poiData = [
   },
   {
     id: "2343",
-    name: "Overseas visits",
+    name: "Meg Munn",
     title: "Overseas visits",
     description:
       "Name of donor: (1) Council of Christians and Jews (2) the Yad VashemAddress of donor: (1) 21 Godliman Street, London EC4V 5BD (2) P.O.B. 3477, Jerusalem 9103401, IsraelAmount of donation (or estimate of the probable value): (1) flights, accommodation and subsistence, £1,150 (2) cost of course and associated materials, and transport to Yad Vashem, £450; total £1,600Destination of visit: Jerusalem, IsraelDate of visit: 12-14 November 2014Purpose of visit: to attend a series of seminars at the Yad Vashem Institute",
@@ -5307,7 +5307,7 @@ export const poiData = [
   },
   {
     id: "2346",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Murphy",
     title: "Remunerated employment, office, profession etc",
     description: "Payments received from ComRes, 4 Millbank, London, SW1P 3JA:",
     latitude: "51.496816",
@@ -5317,7 +5317,7 @@ export const poiData = [
   },
   {
     id: "2363",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jesse Norman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Telegraph Media Group, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -5328,7 +5328,7 @@ export const poiData = [
   },
   {
     id: "2364",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jesse Norman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments received via Peters Fraser & Dunlop, literary agency, Drury House, 34-43 Russell Street, London WC2B 5HA:",
@@ -5339,7 +5339,7 @@ export const poiData = [
   },
   {
     id: "2370",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Nuttall",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, Four Millbank, London SW1P 3JA:",
     latitude: "51.496816",
@@ -5349,7 +5349,7 @@ export const poiData = [
   },
   {
     id: "2391",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Percy",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -5360,7 +5360,7 @@ export const poiData = [
   },
   {
     id: "2402",
-    name: "Remunerated employment, office, profession etc",
+    name: "Stephen Phillips",
     title: "Remunerated employment, office, profession etc",
     description:
       "Crown Court Recorder. Payments received from Ministry of Justice, 102 Petty France, London SW1H 9AJ:",
@@ -5371,7 +5371,7 @@ export const poiData = [
   },
   {
     id: "2406",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from The Times. Address: 1 Virginia Street, London E98 1XY:",
@@ -5382,7 +5382,7 @@ export const poiData = [
   },
   {
     id: "2408",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Daily Mail and Mail on Sunday, Northcliffe House, 2 Derry Street, London W8 5TT:",
@@ -5393,7 +5393,7 @@ export const poiData = [
   },
   {
     id: "2409",
-    name: "Remunerated employment, office, profession etc",
+    name: "Dominic Raab",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Sunday Times, 3 Thomas More Square, London E98 1XY, for articles:",
@@ -5404,7 +5404,7 @@ export const poiData = [
   },
   {
     id: "2414",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Hon vice-chairman (from June 2009), Construction Industry Council, 26 Store Street, London, WC1E 7BT.  CIC is the representative body for professionals working in the construction industry.  Work involves assisting the chairman and chief executive in the oversight and strategic direction of CIC, attendance at board meetings and other CIC activities",
@@ -5415,7 +5415,7 @@ export const poiData = [
   },
   {
     id: "2415",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Chairman, NHBC Foundation, 4th floor, 120 Cannon Street, London, EC4N 6AS. The NHBC Foundation promotes research to support the development of sustainable housing. Work involves oversight of the Foundation’s research programme and dissemination of good practice, including chairing meetings of the advisory board.",
@@ -5426,7 +5426,7 @@ export const poiData = [
   },
   {
     id: "2416",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "Hometrack (non-executive), 6th Floor, the Chambers, Chelsea Harbour, London, SW10 0XF; an organisation providing valuation and related services in the housing market.  Work involves advising the company on relevant housing matters and attendance at board meetings.",
@@ -5437,7 +5437,7 @@ export const poiData = [
   },
   {
     id: "2417",
-    name: "Remunerated directorships",
+    name: "Nick Raynsford",
     title: "Remunerated directorships",
     description:
       "President of the Constructionarium, Riverside House, 4 Meadows Business Park, Station Approach, Blackwater, Camberley, Surrey, GU17 9AB.  The project promotes practical site-based development opportunities for students undertaking Built Environment degree courses.  Work involves advising the organisation on the development of its construction training activities.",
@@ -5448,7 +5448,7 @@ export const poiData = [
   },
   {
     id: "2421",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Reckless",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments for articles written for Associated Newspapers Ltd, 2 Derry Street, London W8 5TT:",
@@ -5459,7 +5459,7 @@ export const poiData = [
   },
   {
     id: "2423",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Redwood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Visiting Professorship to Middlesex University Business School, lecturing on financial subjects related to my previous career.  Address: The Burroughs, London, NW4 4BT.",
@@ -5470,7 +5470,7 @@ export const poiData = [
   },
   {
     id: "2425",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Redwood",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Guardian News & Media Group, Kings Place, 90 York Way, London N1 9GU:",
@@ -5481,7 +5481,7 @@ export const poiData = [
   },
   {
     id: "2431",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jonathan Reynolds",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for market research:",
@@ -5492,7 +5492,7 @@ export const poiData = [
   },
   {
     id: "2432",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jonathan Reynolds",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for market research:",
@@ -5503,7 +5503,7 @@ export const poiData = [
   },
   {
     id: "2438",
-    name: "Remunerated employment, office, profession etc",
+    name: "Malcolm Rifkind",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from London Evening Standard, 2 Derry Street, London W8 5TT:",
@@ -5514,7 +5514,7 @@ export const poiData = [
   },
   {
     id: "2450",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Ruane",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for opinion surveys:",
@@ -5525,7 +5525,7 @@ export const poiData = [
   },
   {
     id: "2455",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Ruffley",
     title: "Remunerated employment, office, profession etc",
     description: "Fees from YouGov, 50 Featherstone Street, London, EC1Y 8RT:",
     latitude: "51.52485",
@@ -5535,7 +5535,7 @@ export const poiData = [
   },
   {
     id: "2457",
-    name: "Remunerated employment, office, profession etc",
+    name: "David Ruffley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, 4 Millbank, London, SW1P 3JA for completing surveys:",
@@ -5546,7 +5546,7 @@ export const poiData = [
   },
   {
     id: "2459",
-    name: "Remunerated employment, office, profession etc",
+    name: "Adrian Sanders",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing opinion polls:",
@@ -5557,7 +5557,7 @@ export const poiData = [
   },
   {
     id: "2464",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Selous",
     title: "Remunerated employment, office, profession etc",
     description:
       "ComRes 4 Millbank London SW1P 3JA:Received £75 for taking part in the January 2014 Parliamentary Panel Survey. Hours: 25 mins. (Registered 11 March 2014)",
@@ -5568,7 +5568,7 @@ export const poiData = [
   },
   {
     id: "2465",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Selous",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from YouGov, 50 Featherstone St, London EC1Y 8RT:",
     latitude: "51.52485",
@@ -5578,7 +5578,7 @@ export const poiData = [
   },
   {
     id: "2471",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Sheridan",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from ComRes, 4 Millbank, London, SW1P 3JA.",
     latitude: "51.496816",
@@ -5588,7 +5588,7 @@ export const poiData = [
   },
   {
     id: "2472",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jim Sheridan",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from YouGov plc, 50 Featherstone Street, London EC1Y 8RT:",
@@ -5599,7 +5599,7 @@ export const poiData = [
   },
   {
     id: "2479",
-    name: "Remunerated employment, office, profession etc",
+    name: "Chris Skidmore",
     title: "Remunerated employment, office, profession etc",
     description:
       "Author.Payments via Jonathan Pegg Literary Agency, 32 Batoum Gardens, London W6 7QD, from The Orion Publishing Group, Orion House, 5 Upper Saint Martin's Lane, London WC2H 9EA:",
@@ -5610,7 +5610,7 @@ export const poiData = [
   },
   {
     id: "2483",
-    name: "Remunerated employment, office, profession etc",
+    name: "Henry Smith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from ComRes, Four Millbank, London SW1P 3JA, for completion of surveys:",
@@ -5621,7 +5621,7 @@ export const poiData = [
   },
   {
     id: "2484",
-    name: "Remunerated employment, office, profession etc",
+    name: "Henry Smith",
     title: "Remunerated employment, office, profession etc",
     description:
       "Fees from YouGov, 50 Featherstone Street, London EC1Y 8RT, for completing surveys:",
@@ -5632,7 +5632,7 @@ export const poiData = [
   },
   {
     id: "2487",
-    name: "Remunerated directorships",
+    name: "Nicholas Soames",
     title: "Remunerated directorships",
     description:
       "AEGIS Defence Services Limited (non-executive).  Address: 84 Eccleston Square, London SW1V 1PX. Attend meetings in pursuit of duties as non-executive director and (since 1 January 2010) non-executive chairman.",
@@ -5643,7 +5643,7 @@ export const poiData = [
   },
   {
     id: "2493",
-    name: "Remunerated employment, office, profession etc",
+    name: "Caroline Spelman",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Civil Service Learning, Quadrant Court, 49 Calthorpe Road, Edgbaston, Birmingham B15 1TH, for talks for the Civil Service Fast Stream on Understanding Government:",
@@ -5654,7 +5654,7 @@ export const poiData = [
   },
   {
     id: "2499",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments of from Telegraph Media Group Ltd, 111 Buckingham Palace Road, London SW1W 0DT:",
@@ -5665,7 +5665,7 @@ export const poiData = [
   },
   {
     id: "2500",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from News UK & Ireland Limited, 3 Thomas More Square, London E98 1XY:",
@@ -5676,7 +5676,7 @@ export const poiData = [
   },
   {
     id: "2501",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Red Bee Media, Ealing Cross, 85 Uxbridge Road, Ealing, London W5 5TH:",
@@ -5687,7 +5687,7 @@ export const poiData = [
   },
   {
     id: "2502",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from the Financial Times Ltd, Number One Southwark Bridge, London SE1 9HL:",
@@ -5698,7 +5698,7 @@ export const poiData = [
   },
   {
     id: "2504",
-    name: "Remunerated employment, office, profession etc",
+    name: "Rory Stewart",
     title: "Remunerated employment, office, profession etc",
     description: "Payments from Trinity College Cambridge, Cambridge, CB2 1TQ:",
     latitude: "52.206938",
@@ -5708,7 +5708,7 @@ export const poiData = [
   },
   {
     id: "2508",
-    name: "Remunerated employment, office, profession etc",
+    name: "Jack Straw",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Associated Newspapers, 2 Derry Street, London W8 5TT:",
@@ -5719,7 +5719,7 @@ export const poiData = [
   },
   {
     id: "2521",
-    name: "Remunerated employment, office, profession etc",
+    name: "Andrew Stunell",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing opinion surveys:",
@@ -5728,7 +5728,7 @@ export const poiData = [
   },
   {
     id: "2529",
-    name: "Remunerated employment, office, profession etc",
+    name: "Mark Tami",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from Populus, Northburgh House, 10, Northburgh Street, London, EC1V 0AT, for surveys:",
@@ -5739,7 +5739,7 @@ export const poiData = [
   },
   {
     id: "2538",
-    name: "Remunerated directorships",
+    name: "John Thurso",
     title: "Remunerated directorships",
     description:
       "Director of International Wine and Spirit Competition Ltd, Building 17, Dunsfold Park, Stovolds Hill, Cranleigh, Surrey, GU6 8TB; organisers annual wine and spirit competition.",
@@ -5748,7 +5748,7 @@ export const poiData = [
   },
   {
     id: "2554",
-    name: "Remunerated employment, office, profession etc",
+    name: "Joan Walley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participating in opinion research panel:",
@@ -5759,7 +5759,7 @@ export const poiData = [
   },
   {
     id: "2555",
-    name: "Remunerated employment, office, profession etc",
+    name: "Joan Walley",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payment from Populus Ltd, 10 Northborough Street, London EC1V 0AT, for participating in opinion research panel:",
@@ -5770,7 +5770,7 @@ export const poiData = [
   },
   {
     id: "2562",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tom Watson",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for completing opinion surveys:",
@@ -5781,7 +5781,7 @@ export const poiData = [
   },
   {
     id: "2565",
-    name: "Remunerated employment, office, profession etc",
+    name: "Heather Wheeler",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for ComRes, Four Millbank, London SW1P 3JA.  Payments donated to South Derbyshire Conservative Association:",
@@ -5792,7 +5792,7 @@ export const poiData = [
   },
   {
     id: "2568",
-    name: "Remunerated employment, office, profession etc",
+    name: "Heather Wheeler",
     title: "Remunerated employment, office, profession etc",
     description:
       "Surveys completed for Populus Ltd, Northburgh House, 10 Northburgh Street, London EC1V 0AT: Payments donated to South Derbyshire Conservative Association:",
@@ -5803,7 +5803,7 @@ export const poiData = [
   },
   {
     id: "2572",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Whittingdale",
     title: "Remunerated employment, office, profession etc",
     description:
       "Payments from ComRes, Four Millbank, London SW1P 3JA, for participation in surveys:",
@@ -5814,7 +5814,7 @@ export const poiData = [
   },
   {
     id: "2573",
-    name: "Remunerated employment, office, profession etc",
+    name: "John Whittingdale",
     title: "Remunerated employment, office, profession etc",
     description:
       "Cultural and Political Adviser on the Museum of the Jewish Soldier in World War II project in Israel; contract for 12 months. Payments are made by Curzon PR, 28 Grosvenor Street, London, W1K 4QR.",
@@ -5825,7 +5825,7 @@ export const poiData = [
   },
   {
     id: "2587",
-    name: "Remunerated employment, office, profession etc",
+    name: "Tim Yeo",
     title: "Remunerated employment, office, profession etc",
     description:
       "Adviser to Meade Hall & Associates, 1 Meade Mews, Causton Street, London SW1P 4EG, a strategic communications consultancy. I advise on matters relating to the construction of new nuclear power stations in Europe.",
@@ -5836,7 +5836,7 @@ export const poiData = [
   },
   {
     id: "2590",
-    name: "Employment and earnings",
+    name: "Peter Bone",
     title: "Employment and earnings",
     description:
       "Fees for completing surveys for ComRes, 4 Millbank, London, SW1P 3JA:Received £75 on 29 July 2014 for survey completed on 4 May 2014.  Hours: 30 mins. (Registered 13 October 2014)Received £75 on 29 September 2014 for survey completed on 16 June 2014.  Hours: 30 mins. (Registered 13 October 2014)Received £75 on 18 November 2014 for survey completed on 1 November 2014. Hours: 30 mins. (Registered 09 December 2014)Received £75 on 12 February 2015 for survey completed on 29 November 2014. Hours: 30 mins. (Registered 19 February 2015)Received £75 on 22 April 2015 for survey completed on 3 February 2015. Hours: 30 mins. (Registered 18 June 2015)Fees for completing surveys for IPSOS Mori, 79-81 Borough Road, London SE1 1FY:Received £200 on 16 September 2014 for completing survey on 23 June 2014.  Hours: 1 hr. (Registered 13 October 2014)Received £200 on 27 January 2015 for completing survey on 8 December 2014.  Hours: 1 hr. (Registered 11 February 2015)Received £200 on 24 August 2015 for completing survey on 9 July 2015. Hours: 1 hr. (Registered 10 September 2015)10 October 2014, received £1,500 from Hat Trick Productions Ltd, 33 Oval Road, Camden, London NW1 7EA, for an appearance on ‘Have I Got News for You’ on 2 October 2014. Hours: 6 hrs. (Registered 13 October 2014)",
@@ -5847,7 +5847,7 @@ export const poiData = [
   },
   {
     id: "2591",
-    name: "Employment and earnings",
+    name: "Peter Bone",
     title: "Employment and earnings",
     description:
       "Fees for completing surveys for YouGov, 50 Featherstone Street, London EC1Y 8RT:Received £100 on 19 March 2015 for completing survey on 28 January 2015.  Hours: 45 mins. (Registered 18 June 2015)Received £100 on 14 April 2015 for completing survey on 23 March 2015.  Hours: 30 mins. (Registered 18 June 2015)Received £60 on 16 January 2015 for completing a survey on 2 December 2014. Hours: 30 mins. (Registered 14 September 2015 together with payments received on 10 March and 6 July 2015)Received £10 on 10 March 2015 for completing a survey on 14 January 2015. Hours: 5 mins. (Registered 14 September 2015 together with payments received on 16 January and 6 July 2015)Received £70 on 6 July 2015 for completing a survey on 8 June 2015. Hours: 30 mins. (Registered 14 September 2015 together with payments received on 16 January and 10 March 2015)",
@@ -5858,7 +5858,7 @@ export const poiData = [
   },
   {
     id: "2592",
-    name: "Employment and earnings",
+    name: "Stewart Jackson",
     title: "Employment and earnings",
     description:
       "Opinion surveys completed for ComRes, 4 Millbank, London, SW1P 3JA.Payment of £75 for July 2014 survey.  Hours: 45 mins.(Registered 06 October 2014)Payment of £75 for October 2014 survey.  Hours: 45 mins.(Registered 02 December 2014)Payment of £75 for November 2014 survey. Hours: 45 mins. (Registered 29 December 2014)Payment of £75 for December 2014 survey. Hours: 45 mins.(Registered 23 February 2015)Adjunct Associate Professor in British Government and Politics at Richmond University (the American International University in London), from September 2010 (for two semesters at 90 minutes a week for up to 30 hours per year plus annual summer school teaching).  Address:  Queen’s Road Richmond-upon-Thames TW10 6JP.Received £855.12 for work undertaken during September and October 2014. Hours: 12 hrs. (Registered 01 December 2014)Received £717.60 for work undertaken during January and February 2015. Hours: 15 hrs. (Registered 19 March 2015)25 April 2015, received £358.80 for work undertaken during March 2015. Hours: 12 hrs. (Registered 28 May 2015)Payment from Ipsos MORI, 78-81 Borough Road,, London SE1 1FY, for opinion research:September 2014, payment of £200 for survey.  Hours: 1hr 5 mins.(Registered 06 October 2014)",
@@ -5869,7 +5869,7 @@ export const poiData = [
   },
   {
     id: "2593",
-    name: "Employment and earnings",
+    name: "Stewart Jackson",
     title: "Employment and earnings",
     description:
       "Payments from LSL Land and New Homes Ltd, Newcastle House, Albany Court, Newcastle Business Park, Newcastle upon Tyne NE4 7YB, for strategic advice on housing, planning and regeneration:November 2014, £3,750 received in respect of advice provided between July and September 2014. Hours: 18 hrs. (Registered 29 December 2014)£3,750 received in respect of advice provided between October and December 2014. Hours: 20 hrs. (Registered 19 March 2015)28 May 2015, £3,750 received in respect of advice provided between January and March 2015. Hours: 18 hrs. (Registered 28 May 2015)",
@@ -5880,7 +5880,7 @@ export const poiData = [
   },
   {
     id: "2594",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "(Registered 4 November 2013, updated 13 March 2014)Fees received for co-presenting BBC’s ‘This Week’ TV programme.  Address: BBC Broadcasting House, Portland Place, London W1A 1AA:",
@@ -5891,7 +5891,7 @@ export const poiData = [
   },
   {
     id: "2612",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "@styleem17 March 2014, received fee of £2,000 for participating in Channel 4’s ‘Fifteen to One’ Television Programme. Address: Remedy Productions, 1-3 St Peters Street, London N1 8JD. Hours: 6 hrs.",
@@ -5902,7 +5902,7 @@ export const poiData = [
   },
   {
     id: "2613",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "(Registered 14 May 2014)13 May 2014, received fee of £200 for writing an article for the New Statesman magazine, cover date 9 May 2014. Address: New Statesman, 7th Floor, John Carpenter House, 7 Carmelite Street, London EC4Y 0AN. Hours: 4 hrs.",
@@ -5913,7 +5913,7 @@ export const poiData = [
   },
   {
     id: "2614",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "(Registered 3 June 2014)29 May 2014, £500 received for taking part in part of the Selfridges Beauty Project. Address: Intelligence Squared, Newcombe House, 45 Notting Hill Gate, London W11 3LQ. Hours: 4 hrs.",
@@ -5924,7 +5924,7 @@ export const poiData = [
   },
   {
     id: "2617",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "(Registered 21 October 2014)14 October 2014, received £1,000 for speaking at the Ilkley Literary Festival. Address: Clive Conway Productions, 32 Grove Street, Oxford OX2 7TJ. Hours: 4 hrs.",
@@ -5935,7 +5935,7 @@ export const poiData = [
   },
   {
     id: "2618",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "(Registered 21 October 2014)15 October 2014, received £2,000 for speaking at the BNP Paribas Black History Month event. Address: BNP Paribas UK, 10 Harewood Avenue, London NW1 6AA. Hours: 4 hrs.",
@@ -5946,7 +5946,7 @@ export const poiData = [
   },
   {
     id: "2622",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "aAddress of donor: Unite House, 128 Theobald’s Road, Holborn WC1X 8TN",
@@ -5957,7 +5957,7 @@ export const poiData = [
   },
   {
     id: "2628",
-    name: "Remunerated employment, office, profession etc",
+    name: "Diane Abbott",
     title: "Remunerated employment, office, profession etc",
     description:
       "bAddress of donor: 4th Floor, Aldwych House, 81 Aldwych, London WC2B 4HN",
