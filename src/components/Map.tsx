@@ -1,11 +1,10 @@
 import * as React from "react";
 import * as Leaflet from "leaflet";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
-import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Money from "../assets/money.png";
 import { fetchAllLocations } from "./../services/database";
-import console = require("console");
+import { getAllMps } from "./../services/parliament-api";
 
 const MapDiv = styled.div`
   width: 80%;
@@ -59,92 +58,80 @@ export interface AirTableRecord {
   createdTime: string;
 }
 
-class ColonialismMap extends React.Component {
-  state = {
-    pointsOfInterest: new Array<PointOfInterest>(),
-  };
+const makeMarkers = (pois: PointOfInterest[]): any => {
+  return pois.map((poi) => {
+    const position: Leaflet.LatLngExpression = [
+      Number(poi.latitude),
+      Number(poi.longitude),
+    ];
 
-  componentDidMount = () => {
+    const markerIcon = Money;
+
+    return (
+      <Marker position={position} key={poi.id} icon={generateIcon(markerIcon)}>
+        <Popup>
+          <Museo500Div className="card blue-grey darken-1">
+            <div className="card-image">
+              <img src={poi.image} alt={poi.title} style={{ width: "100%" }} />
+            </div>
+            <Museo500Div className="card-content white-text">
+              <span className="card-title">{poi.title}</span>
+              {poi.description && (
+                <>
+                  <p>{poi.description}</p>
+                </>
+              )}
+            </Museo500Div>
+            <Museo500Div className="card-action">
+              {poi.source && <a href={poi.source}>Read More</a>}
+            </Museo500Div>
+          </Museo500Div>
+        </Popup>
+      </Marker>
+    );
+  });
+};
+
+export const Map = () => {
+  const [pointsOfInterest, setPointsOfInterest] = React.useState<
+    PointOfInterest[]
+  >([]);
+
+  React.useEffect(() => {
     fetchAllLocations().then((pointsOfInterest) => {
       console.log(pointsOfInterest);
-      this.setState({ pointsOfInterest });
+      setPointsOfInterest(pointsOfInterest);
+      getAllMps();
     });
-  };
+  }, []);
 
-  makeMarkers = (pois: PointOfInterest[]): any => {
-    return pois.map((poi) => {
-      const position: Leaflet.LatLngExpression = [
-        Number(poi.latitude),
-        Number(poi.longitude),
-      ];
-
-      const markerIcon = Money;
-
-      return (
-        <Marker
-          position={position}
-          key={poi.id}
-          icon={generateIcon(markerIcon)}
+  const mapboxToken = process.env.MAPBOX_TOKEN
+    ? process.env.MAPBOX_TOKEN
+    : "pk.eyJ1IjoicG1jbWFob24xIiwiYSI6ImNsMzAydzludzAwcDYzZmxzZXVqY3FudWQifQ.f8rVG3e0k0Mz1sTpWj-mSw";
+  return (
+    <>
+      <TitleDiv>
+        <h2>MPs Interests</h2>
+        <DescriptionPara>Some information about the map...</DescriptionPara>
+      </TitleDiv>
+      <MapDiv>
+        <MapContainer
+          center={startPosition}
+          zoom={6}
+          preferCanvas={true}
+          style={{ height: "700px" }}
         >
-          <Popup>
-            <Museo500Div className="card blue-grey darken-1">
-              <div className="card-image">
-                <img
-                  src={poi.image}
-                  alt={poi.title}
-                  style={{ width: "100%" }}
-                />
-              </div>
-              <Museo500Div className="card-content white-text">
-                <span className="card-title">{poi.title}</span>
-                {poi.description && (
-                  <>
-                    <p>{poi.description}</p>
-                  </>
-                )}
-              </Museo500Div>
-              <Museo500Div className="card-action">
-                {poi.source && <a href={poi.source}>Read More</a>}
-              </Museo500Div>
-            </Museo500Div>
-          </Popup>
-        </Marker>
-      );
-    });
-  };
-
-  render() {
-    return (
-      <>
-        <TitleDiv>
-          <h2>MPs Interests</h2>
-          <DescriptionPara>Some information about the map...</DescriptionPara>
-        </TitleDiv>
-        <MapDiv>
-          <MapContainer
-            center={startPosition}
-            zoom={6}
-            preferCanvas={true}
-            style={{ height: "700px" }}
-          >
-            <TileLayer
-              id="mapbox/streets-v11"
-              url={`https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicG1jbWFob24xIiwiYSI6ImNqd294ZW4xMDBiMW80YnFyYzhheGo2NXMifQ.OAueHLCYkqOg4qbND3CvHg`} // TODO: mapbox access token
-              attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-            />
-            {this.makeMarkers(this.state.pointsOfInterest)}
-          </MapContainer>
-          <DescriptionPara>
-            This page was created by{" "}
-            <a href="https://londoncaat.org.uk/">
-              London Campaign Against Arms Trade
-            </a>
-            .
-          </DescriptionPara>
-        </MapDiv>
-      </>
-    );
-  }
-}
-
-export default ColonialismMap;
+          <TileLayer
+            id="mapbox/streets-v11"
+            url={`https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=${mapboxToken}`}
+            attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+          />
+          {makeMarkers(pointsOfInterest)}
+        </MapContainer>
+        <DescriptionPara>
+          This page was created for the guardian may 2022 hack day.
+        </DescriptionPara>
+      </MapDiv>
+    </>
+  );
+};

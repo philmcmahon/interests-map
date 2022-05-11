@@ -1,5 +1,5 @@
 import fetch from "node-fetch";
-require("dotenv").config();
+
 const { AIRTABLE_API_KEY } = process.env;
 if (!AIRTABLE_API_KEY || AIRTABLE_API_KEY.length < 5) {
   console.error(
