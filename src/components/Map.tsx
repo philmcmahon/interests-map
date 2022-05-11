@@ -3,8 +3,6 @@ import * as Leaflet from "leaflet";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import styled from "styled-components";
 import Money from "../assets/money.png";
-import { fetchAllLocations } from "./../services/database";
-import { getMp } from "./../services/parliament-api";
 import { poiData } from "../data";
 
 const MapDiv = styled.div`
@@ -102,18 +100,6 @@ const makeMarkers = (pois: PointOfInterest[]): any => {
         </Marker>
       );
     });
-};
-
-const convertPostcode = async (
-  postcode: string
-): Promise<{ latitude?: string; longitude?: string }> => {
-  const apiUrl = "https://api.postcodes.io";
-  const code = await fetch(`${apiUrl}/postcodes/${postcode}`).then((r) =>
-    r.json()
-  );
-  const { latitude, longitude } = code.result;
-
-  return { latitude, longitude };
 };
 
 export const Map = () => {
