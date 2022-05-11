@@ -5,6 +5,7 @@ import styled from "styled-components";
 import Money from "../assets/money.png";
 import { fetchAllLocations } from "./../services/database";
 import { getMp } from "./../services/parliament-api";
+import { poiData } from "../data";
 
 const MapDiv = styled.div`
   width: 80%;
@@ -46,14 +47,13 @@ export interface MP {
 export interface PointOfInterest {
   title: string;
   description?: string;
-  latitude?: string;
-  longitude?: string;
-  image?: string;
-  createdTime: string;
+  latitude?: string | null;
+  longitude?: string | null;
+  // createdTime: string;
   id: string;
-  source?: string;
   name?: string;
-  mpdata?: MP;
+  thumbnail?: string;
+  postcode?: string;
 }
 
 export interface AirTableRecord {
@@ -63,43 +63,57 @@ export interface AirTableRecord {
 }
 
 const makeMarkers = (pois: PointOfInterest[]): any => {
-  return pois.map((poi) => {
-    const position: Leaflet.LatLngExpression = [
-      Number(poi.latitude),
-      Number(poi.longitude),
-    ];
+  console.log("length", pois.length);
+  return pois
+    .filter((poi) => poi.latitude && poi.longitude)
+    .map((poi) => {
+      const position: Leaflet.LatLngExpression = [
+        Number(poi.latitude),
+        Number(poi.longitude),
+      ];
 
-    const markerIcon = Money;
+      const markerIcon = poi.thumbnail ? poi.thumbnail : Money;
 
-    console.log("THUMBNAIL", poi.mpdata?.thumbnailUrl);
-
-    return (
-      <Marker position={position} key={poi.id} icon={generateIcon(markerIcon)}>
-        <Popup>
-          <Museo500Div className="card blue-grey darken-1">
-            <div className="card-image">
-              <img
-                src={poi.mpdata?.thumbnailUrl}
-                alt={poi.title}
-                style={{ width: "100%" }}
-              />
-            </div>
-            <Museo500Div className="card-content white-text">
-              <span className="card-title">{poi.title}</span>
-              {poi.description && (
-                <>
-                  <p>{poi.description}</p>
-                </>
-              )}
+      return (
+        <Marker
+          position={position}
+          key={poi.id}
+          icon={generateIcon(markerIcon)}
+        >
+          <Popup>
+            <Museo500Div className="card blue-grey darken-1">
+              <div className="card-image">
+                <img
+                  src={poi.thumbnail}
+                  alt={poi.title}
+                  style={{ width: "100%" }}
+                />
+              </div>
+              <Museo500Div className="card-content white-text">
+                <span className="card-title">{poi.title}</span>
+                {poi.description && (
+                  <>
+                    <p>{poi.description}</p>
+                  </>
+                )}
+              </Museo500Div>
             </Museo500Div>
-            <Museo500Div className="card-action">
-              {poi.source && <a href={poi.source}>Read More</a>}
-            </Museo500Div>
-          </Museo500Div>
-        </Popup>
-      </Marker>
-    );
-  });
+          </Popup>
+        </Marker>
+      );
+    });
+};
+
+const convertPostcode = async (
+  postcode: string
+): Promise<{ latitude?: string; longitude?: string }> => {
+  const apiUrl = "https://api.postcodes.io";
+  const code = await fetch(`${apiUrl}/postcodes/${postcode}`).then((r) =>
+    r.json()
+  );
+  const { latitude, longitude } = code.result;
+
+  return { latitude, longitude };
 };
 
 export const Map = () => {
@@ -108,17 +122,11 @@ export const Map = () => {
   >([]);
 
   React.useEffect(() => {
-    fetchAllLocations().then((pointsOfInterest) => {
-      console.log(pointsOfInterest);
+    setPointsOfInterest(poiData);
+    // fetchAllLocations().then((pointsOfInterest) => {
+    //   console.log(pointsOfInterest);
 
-      Promise.all(
-        pointsOfInterest.map(async (poi) => {
-          console.log("thing", poi);
-          const mpData = await getMp(poi.name || "");
-          return { ...poi, mpdata: mpData };
-        })
-      ).then((ep) => setPointsOfInterest(ep));
-    });
+    // });
   }, []);
 
   const mapboxToken = process.env.MAPBOX_TOKEN
@@ -128,7 +136,7 @@ export const Map = () => {
     <>
       <TitleDiv>
         <h2>MPs Interests</h2>
-        <DescriptionPara>Some information about the map...</DescriptionPara>
+        <DescriptionPara>Is it a gift or is it bribery?</DescriptionPara>
       </TitleDiv>
       <MapDiv>
         <MapContainer

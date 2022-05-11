@@ -5,6 +5,5 @@ export const getMp = async (name: string) => {
   const mp = await fetch(`${apiUrl}/Members/search?name=${name}`).then((res) =>
     res.json()
   );
-  console.log(mp);
   return mp.items[0].value;
 };
