@@ -4,7 +4,7 @@ import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import styled from "styled-components";
 import Money from "../assets/money.png";
 import { fetchAllLocations } from "./../services/database";
-import { getAllMps } from "./../services/parliament-api";
+import { getMp } from "./../services/parliament-api";
 
 const MapDiv = styled.div`
   width: 80%;
@@ -40,6 +40,9 @@ const generateIcon = (iconUrl: string, shadowUrl?: string) => {
 
 const startPosition: Leaflet.LatLngExpression = [53.366413, -1.515828];
 
+export interface MP {
+  thumbnailUrl: string;
+}
 export interface PointOfInterest {
   title: string;
   description?: string;
@@ -48,8 +51,9 @@ export interface PointOfInterest {
   image?: string;
   createdTime: string;
   id: string;
-  asylumBursary?: string;
   source?: string;
+  name?: string;
+  mpdata?: MP;
 }
 
 export interface AirTableRecord {
@@ -67,12 +71,18 @@ const makeMarkers = (pois: PointOfInterest[]): any => {
 
     const markerIcon = Money;
 
+    console.log("THUMBNAIL", poi.mpdata?.thumbnailUrl);
+
     return (
       <Marker position={position} key={poi.id} icon={generateIcon(markerIcon)}>
         <Popup>
           <Museo500Div className="card blue-grey darken-1">
             <div className="card-image">
-              <img src={poi.image} alt={poi.title} style={{ width: "100%" }} />
+              <img
+                src={poi.mpdata?.thumbnailUrl}
+                alt={poi.title}
+                style={{ width: "100%" }}
+              />
             </div>
             <Museo500Div className="card-content white-text">
               <span className="card-title">{poi.title}</span>
@@ -100,8 +110,14 @@ export const Map = () => {
   React.useEffect(() => {
     fetchAllLocations().then((pointsOfInterest) => {
       console.log(pointsOfInterest);
-      setPointsOfInterest(pointsOfInterest);
-      getAllMps();
+
+      Promise.all(
+        pointsOfInterest.map(async (poi) => {
+          console.log("thing", poi);
+          const mpData = await getMp(poi.name || "");
+          return { ...poi, mpdata: mpData };
+        })
+      ).then((ep) => setPointsOfInterest(ep));
     });
   }, []);
 

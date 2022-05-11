@@ -1,8 +1,10 @@
-export const getAllMps = async () => {
-  const mps = await fetch(
-    "https://members-api.parliament.uk/api/Members/Search?skip=0&take=20"
-  );
+export const getMp = async (name: string) => {
+  const apiUrl = "https://members-api.parliament.uk/api";
 
-  const mpsJson = await mps.json();
-  console.log(mpsJson);
+  console.log("fetching mp" + name);
+  const mp = await fetch(`${apiUrl}/Members/search?name=${name}`).then((res) =>
+    res.json()
+  );
+  console.log(mp);
+  return mp.items[0].value;
 };
